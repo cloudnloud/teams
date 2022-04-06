@@ -28,19 +28,15 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 
 # Cloud
 
-## Beginner
-
-# Azure - DP-900 Microsoft Azure Data Fundamentals Certification 2021
+## Beginner - Azure - DP-900 Microsoft Azure Data Fundamentals Certification 2021
 👇
   * Refer -  https://www.udemy.com/course/dp-azure-data/
 
-### AWS - AWS Certified Solutions Architect Associate 2022
+## Beginner - ### AWS - AWS Certified Solutions Architect Associate 2022
 👇
   * Refer -  https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/
   
-## Expert
-
-### AWS - AWS Certified Solutions Architect Professional 2022
+## Expert - AWS - AWS Certified Solutions Architect Professional 2022
 👇
   * Refer -  https://www.udemy.com/course/aws-solutions-architect-professional/
   
@@ -49,18 +45,14 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
   * Refer -  https://www.udemy.com/course/dp200exam/
 
 
-# DevOps
-
-## Beginner
+# DevOps - Beginner
 
 # Azure - Azure DevOps - Your Path to Get Ready for Azure DevOps Roles
 👇
   * Refer -  https://www.udemy.com/course/azure-devops-your-path-to-get-ready-for-azure-devops-roles/
 
  
-# Developer -Microservices
-
-## Beginner
+# Developer -Microservices - Beginner
 
 # Azure - DP-900 Microsoft Azure Data Fundamentals Certification 2021
 👇
@@ -86,9 +78,7 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 
 
 
-# Kubernetes
-
-## Beginner
+# Kubernetes - Beginner
 
 # Kubernetes - and Deep Dive
 👇
@@ -108,16 +98,14 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
   - 14. Load Balancer
   - 15. Ingress
   
-* Refer -  https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/
-* Refer -  https://github.com/cloudnloud/k8s-admin-training
+- * Refer -  https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/
+- * Refer -  https://github.com/cloudnloud/k8s-admin-training
 
-# Kubernetes
-
-## Advanced
+# Kubernetes - Advanced
 
 # Kubernetes - and Deep Dive
 👇
-* Refer -  https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/
+- * Refer -  https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/
 
 
 
@@ -127,14 +115,14 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 
 # Top 100 Python automation scripts
 👇
-** List all 100 python scripts and do each handson
+- ** List all 100 python scripts and do each handson
 
 
 ## Advanced
 
 # Python Automation - Data Analytics
 👇
-** List all 100 python scripts and do each handson towards data curation,data virtuavaliation
+- ** List all 100 python scripts and do each handson towards data curation,data virtuavaliation
 
 
 
@@ -144,8 +132,8 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 
 # AWS Automation using terraform scripts
 👇
-** create each terraform script and explain why and how to implement
-** Create using brainboard and explain the same automation
+- ** create each terraform script and explain why and how to implement
+- ** Create using brainboard and explain the same automation
 
 
 
@@ -154,10 +142,10 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 
 # Terraform automation with solution architecture
 👇
-** create one architecture and create the terraform scripts for that architecture.
-** explain why that architecture
-** explain what is the use of that architecture
-** explain step by step handson using the terraform implementation
+- ** create one architecture and create the terraform scripts for that architecture.
+- ** explain why that architecture
+- ** explain what is the use of that architecture
+- ** explain step by step handson using the terraform implementation
 
 
 
@@ -168,16 +156,16 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 
 # AWS
 👇
-** Take each architecture and do brainstroming
+- ** Take each architecture and do brainstroming
 
 
 # MlOps
 
 ## Beginner
 👇
-** MLOPS
-** AWS-DataAnalytics-I
-** AWS-DataAnalytics-II
-** AWS-MLOps
-** AWS-FinOps
-** BlockChain
+- ** MLOPS
+- ** AWS-DataAnalytics-I
+- ** AWS-DataAnalytics-II
+- ** AWS-MLOps
+- ** AWS-FinOps
+- ** BlockChain
