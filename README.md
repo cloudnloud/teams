@@ -23,7 +23,7 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 - 💬 Ask me about Any Europe Visa Sponsorship Related.
 - 💬 Ask me about Any Solution Architecture Related.
 - 🙏 I’m looking for more hands in this cloudnloud Tech Community initiatives.
-- 📫 How to reach me: mounika@cloudnloud.com.
+- 📫 How to reach me: info@cloudnloud.com.
 - 📫 How to reach us Only Whatsapp : https://discord.gg/vbjRQGVhuF
 
 # Cloud
