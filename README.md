@@ -28,6 +28,18 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 
 # Cloud
 AZURE - AARTHI/Yashmin/Sruthi
+AWS- RUPESH / Sowjanya / Sheik / Pooja
+DevOps - Mounika / Shruthi
+Developer -Microservices - Beginner - Muthu / Mounika
+Kubernetes - Beginner - Shyju/Shubha /Ramesh
+Python - Akhil / Sanjay
+Terraform - Murali/Sridhar
+Solution Via Automation - Thennarasu [Murali/Sridhar]
+Security - Vijayabalan
+MLOPs/Blockchain - Ayyanar
+Solution Architecture Review - Brainstrom - Sree/Sunitha/Srinivas
+College Across India - Dilli/Vijay/Shruthi
+
 
 ## Beginner - Azure - DP-900 Microsoft Azure Data Fundamentals Certification 2021
 👇
@@ -54,8 +66,6 @@ AZURE - AARTHI/Yashmin/Sruthi
 
  
 # Developer -Microservices - Beginner
-
-# Azure - DP-900 Microsoft Azure Data Fundamentals Certification 2021
 👇
 ** Key Notes about .net core to work on.
 
