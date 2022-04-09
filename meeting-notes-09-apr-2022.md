@@ -49,6 +49,19 @@ git push
 - Use streamyard.com - login password please ask vijay
     ** before start use streamyard please make sure in the same browser first you login linkedin,facebook and youtube **
 
+- Those who want to test and explore streamyard.com
+
+First login the below mail id
+
+username - info@cloudnloud.com
+Password - XXXXXXXXX [ask vijay/aarthi/shruthi]
+
+then login streamyard.com
+
+username - info@cloudnloud.com
+
+you get OTP in the above mail id...
+
 
 # Very Important
 
