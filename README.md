@@ -23,10 +23,24 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 - 💬 Ask me about Any Europe Visa Sponsorship Related.
 - 💬 Ask me about Any Solution Architecture Related.
 - 🙏 I’m looking for more hands in this cloudnloud Tech Community initiatives.
-- 📫 How to reach me: mounika@cloudnloud.com.
+- 📫 How to reach me: info@cloudnloud.com.
 - 📫 How to reach us Only Whatsapp : https://discord.gg/vbjRQGVhuF
 
 # Cloud
+- AZURE - AARTHI/Yashmin/Sruthi
+- AWS- RUPESH / Sowjanya / Sheik / Pooja
+- DevOps - Mounika / Shruthi
+- Developer -Microservices - Beginner - Muthu / Mounika
+- Kubernetes - Beginner - Shyju/Shubha /Ramesh
+- Python - Akhil / Sanjay
+- Terraform - Murali/Sridhar
+- Solution Via Automation - Thennarasu [Murali/Sridhar]
+- Security - Vijayabalan
+- MLOPs/Blockchain - Ayyanar
+- Solution Architecture Review - Brainstrom - Sree/Sunitha/Srinivas
+- College Across India - Dilli/Vijay/Shruthi
+- Linux Administration - Sathya/Sanjay
+
 
 ## Beginner - Azure - DP-900 Microsoft Azure Data Fundamentals Certification 2021
 👇
@@ -53,8 +67,6 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 
  
 # Developer -Microservices - Beginner
-
-# Azure - DP-900 Microsoft Azure Data Fundamentals Certification 2021
 👇
 ** Key Notes about .net core to work on.
 
