@@ -18,6 +18,7 @@ https://www.amazon.in/Sennheiser-PC-Over-Ear-USB-Headphone/dp/B005HWEZGG
 - Technical knowledge and some leadership skills is going to get you to massive heights.
 - Having proper time management.
 - Everyone should have Github access - https://github.com/cloudnloud
+- Everyone should have linkedin page admin access -  https://www.linkedin.com/company/80359681/
 - Facebook access - https://www.facebook.com/cloudnloudTech/
 - Youtube access - https://www.youtube.com/c/CloudnLoud
 
@@ -46,6 +47,7 @@ git push
 - How to make bold letters i linkedin and facebook posts - https://capitalizemytitle.com/bold-text-generator/
 
 - Use streamyard.com - login password please ask vijay
+    ** before start use streamyard please make sure in the same browser first you login linkedin,facebook and youtube **
 
 
 # Very Important
