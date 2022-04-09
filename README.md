@@ -27,6 +27,7 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 - 📫 How to reach us Only Whatsapp : https://discord.gg/vbjRQGVhuF
 
 # Cloud
+AZURE - AARTHI/Yashmin/Sruthi
 
 ## Beginner - Azure - DP-900 Microsoft Azure Data Fundamentals Certification 2021
 👇
