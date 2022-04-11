@@ -4,6 +4,8 @@
 
 **  Important - Common Points to Consider **
 
+- everyone start subscribe https://www.devopsbulletin.com/  ...You will get all latest updates
+
 - Little knowledge is enough to share and present.
 - No place for any timepassers.
 - Concentrate on your own growth and the community will automatically grow.
