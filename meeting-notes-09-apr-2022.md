@@ -73,3 +73,22 @@ you get OTP in the above mail id...
 # for all assigned topics pleae refer te below link 
 
   - https://github.com/cloudnloud/teams
+
+# need to do the following
+
+Please stick with the below.
+
+1. Start discuss on the given topic.
+2. Start prepare the topics session wise.
+3. share the topics and session and datewise ...i will quickly have look and aprove.
+4. Make sure all sessions you prepared detailed github.Make sure you added your profile linkedin details in the github.
+5. create all the linkedin events for all sessions
+6. start record and schedule it accordingly.
+
+
+This will help you all to overcome the following
+
+1. Tools handling issues (canva,live stream,crowd handling,github,ppt)
+2. linkedin self advertisement projections
+3. Time manaagement
+4. Projecting yourself more in the stage without any fear.
