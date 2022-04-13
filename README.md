@@ -70,9 +70,15 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 👇
 ** Key Notes about .net core to work on.
 
-** 1. Develop legacy application using .net core.
+0.1 - How to install visual studio [just for documentation ]
+0.2 - how to create sample web application using visual studion
+0.3 - create custom message with our profile and our links
 
-	- *Deploy in standlone server
+
+** 1. Develop legacy application using .net core.
+           
+	- *Deploy in standlone server - tomcat
+	- *Deploy in standlone server - IIS
 	- *Deploy in Azure web app
 	- *Deploy in Aws Elastic beanstalk
 	- *Deploy in virtual machine created in azure and aws 
