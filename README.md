@@ -32,7 +32,7 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 - DevOps - Mounika / Shruthi
 - Developer -Microservices - Beginner - Muthu / Mounika
 - Kubernetes - Beginner - Shyju/Shubha /Ramesh
-- Python - Akhil / Sanjay
+- Python - Akhil / Lavanya
 - Terraform - Murali/Sridhar
 - Solution Via Automation - Thennarasu [Murali/Sridhar]
 - Security - Vijayabalan
