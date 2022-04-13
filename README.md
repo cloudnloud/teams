@@ -81,7 +81,12 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 	- *Deploy in standlone server - IIS
 	- *Deploy in Azure web app
 	- *Deploy in Aws Elastic beanstalk
-	- *Deploy in virtual machine created in azure and aws 
+	- *Deploy in virtual machine created in azure and aws - create machine and install IIS - Deploy and explain
+	- *Deploy in virtual machine created in azure and aws - create machine and install Tomcat - Deploy and explain
+	- *create AZURE DevOps Pipeline and deploy this application
+	- Create AWS Code Pipeline and deploy this application
+	- *create Jekins CI/CD pipeline and deploy this application
+	- *Create jenkins pipeline using jenkinsfile and deploy this application
 	- *Deploy in Kubernetes cluster
 	
 ** 2. Develop microservices using .net core 
