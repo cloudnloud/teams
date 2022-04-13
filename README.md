@@ -37,7 +37,7 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 - Solution Via Automation - Thennarasu [Murali/Sridhar]
 - Security - Vijayabalan
 - MLOPs/Blockchain - Ayyanar
-- Solution Architecture Review - Brainstrom - Sree/Sunitha/Srinivas
+- Solution Architecture Review - Brainstrom - Sree/Sunitha/Srinivas/Srinivasan
 - College Across India - Dilli/Vijay/Shruthi
 - Linux Administration - Sathya/Sanjay
 
