@@ -41,6 +41,9 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 - College Across India - Dilli/Vijay/Shruthi
 - Linux Administration - Sathya/Sanjay
 
+#AWS-USECASES
+
+- https://www.eksworkshop.com/
 
 ## Beginner - Azure - DP-900 Microsoft Azure Data Fundamentals Certification 2021
 👇
