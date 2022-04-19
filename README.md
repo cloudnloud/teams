@@ -70,7 +70,13 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 
  
 # Linux - Re-Engineering 
+- what lab they need to practice
+- how to implement
+- how to configure
+- usecase2
+- troubleshooting
 👇
+
 1. Linux Monitoring - 2 top tools
    - Prometheus
    - Grafana 
