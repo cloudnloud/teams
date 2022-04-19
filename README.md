@@ -69,6 +69,15 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
   * Refer -  https://www.udemy.com/course/azure-devops-your-path-to-get-ready-for-azure-devops-roles/
 
  
+# Linux - Re-Engineering 
+👇
+1. Linux Monitoring - 2 top tools
+   - Prometheus
+   - Grafana 
+2. Linux Hardening - 2 top tools
+3. linux Security - 2 top tools
+4. Linux 
+
 # Developer -Microservices - Beginner
 👇
 ** Key Notes about .net core to work on.
