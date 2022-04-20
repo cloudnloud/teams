@@ -212,32 +212,18 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 - ** BlockChain
 
 # Interview Questions
-1.How to manage Linux servers,troubleshooting, security hardening etc.
-
-2.AWS Devops(code deploy, artifacts, deployements etc)
-
-3.What are the Different Types of Monitoring Tools Like Grafana, Kibana, Elastic Search, Logstash, Prometheus. whats the use of these.
-
-4.Whats the difference between Grafana and Kibana.
-
-5.How the data is coming to Grafana and Kibana
-
-6.what is prometheus? How to configure Prometheus?
-
-7.How to troubleshoot Apache or nginx servers or any web servers. and deploy application
-
-8.What is Fargate in AWS?
-
-9.Whats are the various type of RDS and whats the difference between SQL and NoSql, PostgressSQL and Mysql.
-
-10.What is MFA in IAM ? Is it a good practice to login as a Root user or we should use IAM user for login.? Can we use MFA with other IAM users also ?
-
-11.What are the various ways of deployemt on EC2.
-
-12. What is AWS Firewall Manger?
- 
-13. what is swap memory in Linux?
-
-14. what are the special permissions in Linux?
-
-15. Migration of Instance from one region to another ?
+- How to manage Linux servers,troubleshooting, security hardening etc.
+- AWS Devops(code deploy, artifacts, deployements etc)
+- What are the Different Types of Monitoring Tools Like Grafana, Kibana, Elastic Search, Logstash, Prometheus. whats the use of these.
+- Whats the difference between Grafana and Kibana.
+- How the data is coming to Grafana and Kibana
+- what is prometheus? How to configure Prometheus?
+- How to troubleshoot Apache or nginx servers or any web servers. and deploy application
+- What is Fargate in AWS?
+- Whats are the various type of RDS and whats the difference between SQL and NoSql, PostgressSQL and Mysql.
+- What is MFA in IAM ? Is it a good practice to login as a Root user or we should use IAM user for login.? Can we use MFA with other IAM users also ?
+- What are the various ways of deployemt on EC2.
+- What is AWS Firewall Manger?
+- what is swap memory in Linux?
+- what are the special permissions in Linux?
+- Migration of Instance from one region to another ?
