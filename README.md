@@ -215,6 +215,8 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 
 ## Beginner
 👇
+- What is site reliability engineering?
+- Who are site reliability engineers and what do they do?
 - What SRE service reliability engineering will do in cloud ?
 - What is a cloud reliability engineer?
 - What does a service reliability engineer do?
@@ -228,8 +230,7 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 - What makes a good SRE?
 - What is toil in SRE?
 - What is the goal of SRE?
-- What is site reliability engineering?
-- Who are site reliability engineers and what do they do?
+
 
 
 https://www.gremlin.com/site-reliability-engineering/how-to-become-a-top-notch-sre/
