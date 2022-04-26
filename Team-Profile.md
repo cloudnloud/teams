@@ -27,21 +27,7 @@
 ## Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
-
-### My Skill  
-<div align="center">  
- - AWS
- - AZURE
- - Ansible
- - Terraform
-</div>
-
 </td><td valign="top" width="33%">
-
-
-
-
 
 ## Connect with Vijayabalan Balakrishnan 
 <a href="https://github.com/cloudnloud" target="_blank">
@@ -394,21 +380,6 @@ Mail - Vijay@cloudnloud.com
 My Location - Belgium
 My Skills -
 Skills Alocated in CNL -
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
