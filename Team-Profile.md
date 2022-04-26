@@ -67,10 +67,10 @@
 </a>  
   
 
-Mail - Vijay@cloudnloud.com
-My Location - Belgium
-My Skills -
-Skills Alocated in CNL -
+- Mail - Vijay@cloudnloud.com
+- My Location - Belgium
+- My Skills -
+- Skills Alocated in CNL -
 
 ## Connect with Aarthi Renganathan
 <a href="https://github.com/cloudnloud" target="_blank">
