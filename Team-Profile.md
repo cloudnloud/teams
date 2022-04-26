@@ -77,7 +77,7 @@
 
   
 
-- Mail - Vijay@cloudnloud.com
+- Mail - ithraa33@gmail.com
 - My Location - Chennai
 - My Skills -
 - Skills Alocated in CNL
@@ -104,7 +104,7 @@
  
   
 
-- Mail - Vijay@cloudnloud.com
+- Mail - shruthikini.93@gmail.com
 - My Location - Bangalore
 - My Skills -
 - Skills Alocated in CNL
@@ -132,7 +132,7 @@
 
   
 
-- Mail - Vijay@cloudnloud.com
+- Mail - Yasminsk5657@gmail.com
 - My Location - Australia
 - My Skills -
 - Skills Alocated in CNL
@@ -217,7 +217,7 @@
 
   
 
-- Mail - Vijay@cloudnloud.com
+- Mail - khaja@cloudnloud.com
 - My Location - Hyderabad
 - My Skills -
 - Skills Alocated in CNL
@@ -298,7 +298,7 @@
 
   
 
-- Mail - Vijay@cloudnloud.com
+- Mail - shubh.sd72@gmail.com
 - My Location - Bengalore
 - My Skills -
 - Skills Alocated in CNL
@@ -326,7 +326,7 @@
 
   
 
-- Mail - Vijay@cloudnloud.com
+- Mail - shyju@live.in
 - My Location - Dubai
 - My Skills -
 - Skills Alocated in CNL
@@ -354,7 +354,7 @@
 
   
 
-- Mail - Vijay@cloudnloud.com
+- Mail - thennarasud@gmail.com
 - My Location - Bengalore
 - My Skills -
 - Skills Alocated in CNL
@@ -409,7 +409,7 @@
 
   
 
-- Mail - Vijay@cloudnloud.com
+- Mail - muralidoss@outlook.com
 - My Location - Chennai
 - My Skills -
 - Skills Alocated in CNL
@@ -464,7 +464,7 @@
  
   
 
-- Mail - Vijay@cloudnloud.com
+- Mail - soujanya.ganti4@gmail.com
 - My Location - Hyderabad
 - My Skills -
 - Skills Alocated in CNL
@@ -491,7 +491,7 @@
 
   
 
-- Mail - Vijay@cloudnloud.com
+- Mail - rameshkumar_ece@yahoo.co.in
 - My Location - Chennai
 - My Skills -
 - Skills Alocated in CNL
@@ -547,7 +547,7 @@
   
   
 
-- Mail - Vijay@cloudnloud.com
+- Mail - sreeanandc@gmail.com
 - My Location - Chennai
 - My Skills -
 - Skills Alocated in CNL
