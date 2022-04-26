@@ -6,7 +6,7 @@
 </div>  
   
 
-### <div align="center">We are part of Cloudnloud Tech Community Family.👨‍💻 working remotely since 2011 towards cancer children dream🚀</div>  
+### <div align="center">We part of Cloudnloud Tech Community Family.👨‍💻 working since 2011 towards cancer children dream🚀</div>  
   
 
 - 🔭 We are slowly making ourselves as ALLRounders [Github](https://github.com/cloudnloud)  
