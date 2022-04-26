@@ -25,9 +25,6 @@
 
 
 ## Skill Set  
-<table><tr><td valign="top" width="33%">
-
-</td><td valign="top" width="33%">
 
 ## Connect with Vijayabalan Balakrishnan 
 <a href="https://github.com/cloudnloud" target="_blank">
