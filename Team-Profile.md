@@ -177,7 +177,7 @@
 
   
 
-- Mail - Vijay@cloudnloud.com
+- Mail - pravitha@cloudnloud.com
 - My Location - Chennai
 - My Skills -
 - Skills Alocated in CNL
