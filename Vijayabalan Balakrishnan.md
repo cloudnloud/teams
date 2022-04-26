@@ -24,14 +24,17 @@
 <br/>  
 
 
-## My Skill Set  
+## Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
 
-### Cloud  
+### My Skill  
 <div align="center">  
- - 🌱 I’m currently learning Robotics and Neural Algorithem 
+ - AWS
+ - AZURE
+ - Ansible
+ - Terraform
 </div>
 
 </td><td valign="top" width="33%">
@@ -75,7 +78,7 @@ Azure,AWS
 </a>  
   
 
-Mail - [Vijay@cloudnloud.com](Vijay@cloudnloud.com)  
+Mail - Vijay@cloudnloud.com
   
 
 <br/>  
