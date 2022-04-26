@@ -51,7 +51,26 @@ Azure,AWS
 
 </td></tr></table>  
 
-<br/>  
+<br/> 
+
+Sl.No	Name	Location	Skillset	Technology Allocated in CNL	Twitter ID	Instagram ID	Linkedin ID	Facebook ID	Email ID
+1	Vijayabalan Balakrishnan	Belgium	AWS
+AZURE
+Ansible	AWS
+AZURE
+Ansible	bvijaycom	bvijaycom	vijaystack	vijaybalan.balakrishnan	vijay@cloudnloud.com
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
 
 
 ## Connect with me  
