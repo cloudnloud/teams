@@ -53,7 +53,7 @@
 - Mail - Vijay@cloudnloud.com
 - My Location - Belgium
 - My Skills -
-- Skills Alocated in CNL -
+- Skills Alocated in CNL
 
 ## Connect with Aarthi Renganathan
 <a href="https://github.com/cloudnloud" target="_blank">
@@ -79,10 +79,10 @@
 </a>  
   
 
-Mail - Vijay@cloudnloud.com
-My Location - Belgium
-My Skills -
-Skills Alocated in CNL -
+- Mail - Vijay@cloudnloud.com
+- My Location - Belgium
+- My Skills -
+- Skills Alocated in CNL
 
 ## Connect with Shruthi
 <a href="https://github.com/cloudnloud" target="_blank">
@@ -108,10 +108,10 @@ Skills Alocated in CNL -
 </a>  
   
 
-Mail - Vijay@cloudnloud.com
-My Location - Belgium
-My Skills -
-Skills Alocated in CNL -
+- Mail - Vijay@cloudnloud.com
+- My Location - Belgium
+- My Skills -
+- Skills Alocated in CNL
 
 
 ## Connect with Yasmin Sheik
@@ -138,11 +138,10 @@ Skills Alocated in CNL -
 </a>  
   
 
-Mail - Vijay@cloudnloud.com
-My Location - Belgium
-My Skills -
-Skills Alocated in CNL -
-
+- Mail - Vijay@cloudnloud.com
+- My Location - Belgium
+- My Skills -
+- Skills Alocated in CNL
 
 ## Connect with Mounika
 <a href="https://github.com/cloudnloud" target="_blank">
@@ -168,10 +167,10 @@ Skills Alocated in CNL -
 </a>  
   
 
-Mail - Vijay@cloudnloud.com
-My Location - Belgium
-My Skills -
-Skills Alocated in CNL -
+- Mail - Vijay@cloudnloud.com
+- My Location - Belgium
+- My Skills -
+- Skills Alocated in CNL
 
 
 ## Connect with Pravitha
@@ -198,10 +197,10 @@ Skills Alocated in CNL -
 </a>  
   
 
-Mail - Vijay@cloudnloud.com
-My Location - Belgium
-My Skills -
-Skills Alocated in CNL -
+- Mail - Vijay@cloudnloud.com
+- My Location - Belgium
+- My Skills -
+- Skills Alocated in CNL
 
 
 
@@ -230,10 +229,10 @@ Skills Alocated in CNL -
 </a>  
   
 
-Mail - Vijay@cloudnloud.com
-My Location - Belgium
-My Skills -
-Skills Alocated in CNL -
+- Mail - Vijay@cloudnloud.com
+- My Location - Belgium
+- My Skills -
+- Skills Alocated in CNL
 
 
 ## Connect with Muthu
@@ -260,10 +259,10 @@ Skills Alocated in CNL -
 </a>  
   
 
-Mail - Vijay@cloudnloud.com
-My Location - Belgium
-My Skills -
-Skills Alocated in CNL -
+- Mail - Vijay@cloudnloud.com
+- My Location - Belgium
+- My Skills -
+- Skills Alocated in CNL
 
 
 ## Connect with Srikanth
@@ -288,6 +287,11 @@ Skills Alocated in CNL -
 <a href="https://www.youtube.com/user/cloudnloud" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
+
+- Mail - Vijay@cloudnloud.com
+- My Location - Belgium
+- My Skills -
+- Skills Alocated in CNL
   
 ## Connect with Shubha
 <a href="https://github.com/cloudnloud" target="_blank">
@@ -313,10 +317,10 @@ Skills Alocated in CNL -
 </a>  
   
 
-Mail - Vijay@cloudnloud.com
-My Location - Belgium
-My Skills -
-Skills Alocated in CNL -
+- Mail - Vijay@cloudnloud.com
+- My Location - Belgium
+- My Skills -
+- Skills Alocated in CNL
 
 ## Connect with Shyju
 
@@ -343,10 +347,10 @@ Skills Alocated in CNL -
 </a>  
   
 
-Mail - Vijay@cloudnloud.com
-My Location - Belgium
-My Skills -
-Skills Alocated in CNL -
+- Mail - Vijay@cloudnloud.com
+- My Location - Belgium
+- My Skills -
+- Skills Alocated in CNL
 
 
 ## Connect with Tennarasu
@@ -373,11 +377,10 @@ Skills Alocated in CNL -
 </a>  
   
 
-Mail - Vijay@cloudnloud.com
-My Location - Belgium
-My Skills -
-Skills Alocated in CNL -
-
+- Mail - Vijay@cloudnloud.com
+- My Location - Belgium
+- My Skills -
+- Skills Alocated in CNL
 
 
 <br/>  
