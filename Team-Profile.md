@@ -260,7 +260,7 @@
 - My Skills -
 - Skills Alocated in CNL
   
-## Connect with Shubha
+## Connect with Shubh
 <a href="https://github.com/cloudnloud" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -280,7 +280,7 @@
 
   
 
-- Mail - shubh.sd72@gmail.com
+- Mail - shubhdadhich81@gmail.com
 - My Location - Bengalore
 - My Skills -
 - Skills Alocated in CNL
