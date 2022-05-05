@@ -115,7 +115,7 @@
 
   
 
-- Mail - Vijay@cloudnloud.com
+- Mail - dasarimounika707@gmail.com
 - My Location - Hyderabad
 - My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins
 - Skills Alocated in CNL - DevOps
@@ -159,19 +159,19 @@
 - Skills Alocated in CNL - Kubernetes,Cloud Native,Business Management
 
 
-## Connect with Muthu
+## Connect with Muthuraj Anbalagan
 
-<a href="https://linkedin.com/in/vijaystack" target="_blank">
+<a href="https://www.linkedin.com/in/muthurajstack/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/vijayabalan.balakrishnan" target="_blank">
+<a href="https://www.facebook.com/muthuraj.a.37" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 
 
   
 
-- Mail - Vijay@cloudnloud.com
+- Mail - muthuraj008@gmail.com
 - My Location - Chennai
 - My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins,.net Developer
 - Skills Alocated in CNL - DevOps - Cloud Native
@@ -244,7 +244,7 @@
 
   
 
-- Mail - Vijay@cloudnloud.com
+- Mail - asrsri.adde@gmail.com
 - My Location - London,UK
 - My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins,Terraform
 - Skills Alocated in CNL - Solution Architecture
@@ -279,7 +279,7 @@
 
   
 
-- Mail - Vijay@cloudnloud.com
+- Mail - prsathiyamoorthy@yahoo.co.in
 - My Location - Chennai
 - My Skills - AWS,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins,Terraform
 - Skills Alocated in CNL - Linux,Cloud Native
@@ -331,7 +331,7 @@
 
   
 
-- Mail - Vijay@cloudnloud.com
+- Mail - snb1319@gmail.com
 - My Location - Chennai
 - My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins,Terraform
 - Skills Alocated in CNL - Solution Architecture
