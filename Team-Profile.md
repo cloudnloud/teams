@@ -56,15 +56,6 @@
 - Skills Alocated in CNL
 
 ## Connect with Aarthi Renganathan
-<a href="https://github.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/bvijaycom_16" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/architectaarthi/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -72,24 +63,13 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 
-
-  
-
 - Mail - ithraa33@gmail.com
 - My Location - Chennai
-- My Skills -
-- Skills Alocated in CNL
+- My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins
+- Skills Alocated in CNL - Azure,Azure Kubernetes
 
 ## Connect with Shruthi
-<a href="https://github.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/bvijaycom_16" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://www.linkedin.com/in/techno-geek-shruthi/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -102,20 +82,12 @@
 
 - Mail - shruthikini.93@gmail.com
 - My Location - Bangalore
-- My Skills -
-- Skills Alocated in CNL
+- My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins
+- Skills Alocated in CNL - Azure
 
 
 ## Connect with Yasmin Sheik
-<a href="https://github.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/bvijaycom_16" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://www.linkedin.com/in/yasmin-shaik/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -128,19 +100,11 @@
 
 - Mail - Yasminsk5657@gmail.com
 - My Location - Australia
-- My Skills -
-- Skills Alocated in CNL
+- My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins
+- Skills Alocated in CNL - Azure,Azure Kubernetes,Azure Data
 
 ## Connect with Mounika
-<a href="https://github.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/bvijaycom_16" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://www.linkedin.com/in/mounistack/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -153,20 +117,12 @@
 
 - Mail - Vijay@cloudnloud.com
 - My Location - Hyderabad
-- My Skills -
-- Skills Alocated in CNL
+- My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins
+- Skills Alocated in CNL - DevOps
 
 
 ## Connect with Pravitha
-<a href="https://github.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/bvijaycom_16" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://www.linkedin.com/in/iampravitha/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -179,22 +135,14 @@
 
 - Mail - pravitha@cloudnloud.com
 - My Location - Chennai
-- My Skills -
-- Skills Alocated in CNL
+- My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins,Openshift
+- Skills Alocated in CNL - Business Management
 
 
 
 
 ## Connect with Khaja
-<a href="https://github.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/bvijaycom_16" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://www.linkedin.com/in/khaja143/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -207,20 +155,12 @@
 
 - Mail - khaja@cloudnloud.com
 - My Location - Hyderabad
-- My Skills -
-- Skills Alocated in CNL
+- My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins
+- Skills Alocated in CNL - Kubernetes,Cloud Native,Business Management
 
 
 ## Connect with Muthu
-<a href="https://github.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/bvijaycom_16" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://linkedin.com/in/vijaystack" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -233,43 +173,13 @@
 
 - Mail - Vijay@cloudnloud.com
 - My Location - Chennai
-- My Skills -
-- Skills Alocated in CNL
+- My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins,.net Developer
+- Skills Alocated in CNL - DevOps - Cloud Native
 
 
-## Connect with Srikanth
-<a href="https://github.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/bvijaycom_16" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/vijaystack" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/vijayabalan.balakrishnan" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-
-
-- Mail - Vijay@cloudnloud.com
-- My Location - Chennai
-- My Skills -
-- Skills Alocated in CNL
-  
+ 
 ## Connect with Shubha
-<a href="https://github.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/bvijaycom_16" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://www.linkedin.com/in/shubhcloud/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -282,20 +192,12 @@
 
 - Mail - shubh.sd72@gmail.com
 - My Location - Bengalore
-- My Skills -
-- Skills Alocated in CNL
+- My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins
+- Skills Alocated in CNL - Kubernetes,Cloud Native
 
 ## Connect with Shyju
 
-<a href="https://github.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/bvijaycom_16" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://www.linkedin.com/in/shyjustack/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -308,20 +210,12 @@
 
 - Mail - shyju@live.in
 - My Location - Dubai
-- My Skills -
-- Skills Alocated in CNL
+- My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins
+- Skills Alocated in CNL - Kubernetes,Cloud Native
 
 
 ## Connect with Tennarasu
-<a href="https://github.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/bvijaycom_16" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://www.linkedin.com/in/thennarasu-duraikannu-58a12032/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -334,20 +228,12 @@
 
 - Mail - thennarasud@gmail.com
 - My Location - Bengalore
-- My Skills -
-- Skills Alocated in CNL
+- My Skills - AWS,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins,Terraform
+- Skills Alocated in CNL - Kubernetes,Cloud Native,Terraform
 
 
 ## Connect with Srinivasa Raju Addepalli
-<a href="https://github.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/bvijaycom_16" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://www.linkedin.com/in/sraddepalli/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -360,19 +246,12 @@
 
 - Mail - Vijay@cloudnloud.com
 - My Location - London,UK
-- My Skills -
-- Skills Alocated in CNL
+- My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins,Terraform
+- Skills Alocated in CNL - Solution Architecture
+
 
 ## Connect with Murali Doss
-<a href="https://github.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/bvijaycom_16" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://www.linkedin.com/in/dossops/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -385,19 +264,11 @@
 
 - Mail - muralidoss@outlook.com
 - My Location - Chennai
-- My Skills -
-- Skills Alocated in CNL
+- My Skills - AWS,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins,Terraform
+- Skills Alocated in CNL - Kubernetes,Cloud Native,Terraform
 
 ## Connect with sathiyamoorthy pr 
-<a href="https://github.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/bvijaycom_16" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://www.linkedin.com/in/sathiyamoorthy-pr-82109b77/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -410,20 +281,11 @@
 
 - Mail - Vijay@cloudnloud.com
 - My Location - Chennai
-- My Skills -
-- Skills Alocated in CNL
-
+- My Skills - AWS,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins,Terraform
+- Skills Alocated in CNL - Linux,Cloud Native
 
 ## Connect with Soujanya G
-<a href="https://github.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/bvijaycom_16" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://www.linkedin.com/in/soujanyatech/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -436,19 +298,11 @@
 
 - Mail - soujanya.ganti4@gmail.com
 - My Location - Hyderabad
-- My Skills -
-- Skills Alocated in CNL
+- My Skills - AWS,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins,Terraform
+- Skills Alocated in CNL - AWS
 
 ## Connect with Rameshkumar Muthusamy
-<a href="https://github.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/bvijaycom_16" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://www.linkedin.com/in/rameshkstacks/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -461,20 +315,12 @@
 
 - Mail - rameshkumar_ece@yahoo.co.in
 - My Location - Chennai
-- My Skills -
-- Skills Alocated in CNL
+- My Skills - AWS,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins,Terraform
+- Skills Alocated in CNL - Kubernetes,Cloud Native
 
 
 ## Connect with Sunitha Shenoy
-<a href="https://github.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/bvijaycom_16" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://www.linkedin.com/in/sunithashenoy/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -487,20 +333,11 @@
 
 - Mail - Vijay@cloudnloud.com
 - My Location - Chennai
-- My Skills -
-- Skills Alocated in CNL
+- My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins,Terraform
+- Skills Alocated in CNL - Solution Architecture
 
 
 ## Connect with Sreeanand Chandran
-<a href="https://github.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/bvijaycom_16" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/sreeanandchandran/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -513,8 +350,8 @@
 
 - Mail - sreeanandc@gmail.com
 - My Location - Chennai
-- My Skills -
-- Skills Alocated in CNL
+- My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins,Terraform
+- Skills Alocated in CNL - Solution Architecture
 
 
 
