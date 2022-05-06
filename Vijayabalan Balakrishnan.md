@@ -133,4 +133,4 @@ Mail - Vijay@cloudnloud.com
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 
-![Discord Banner 4](https://discordapp.com/api/guilds/cloudnloud/widget.png?style=banner4)
+![Discord Banner 4](https://discordapp.com/api/guilds/950513516916375573/widget.png?style=banner4)
