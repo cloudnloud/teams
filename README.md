@@ -27,11 +27,11 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 - 📫 How to reach us Only Whatsapp : https://discord.gg/vbjRQGVhuF
 
 # Cloud
-- AZURE - AARTHI/Yashmin/Sruthi
-- AWS- RUPESH / Sowjanya / Sheik / Pooja
+- AZURE - AARTHI / Yashmin / Shruthi
+- AWS - Sowjanya / Shaik / Pooja
 - DevOps - Mounika / Shruthi
 - Developer -Microservices - Beginner - Muthu / Mounika
-- Kubernetes - Beginner - Shyju/Shubha /Ramesh
+- Kubernetes - Beginner - Shyju/Shubha/Ramesh
 - Python - Akhil / Lavanya
 - Terraform - Murali/Sridhar
 - Solution Via Automation - Thennarasu [Murali/Sridhar]
