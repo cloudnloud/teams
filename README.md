@@ -32,7 +32,7 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 
 **People will submit their topics and photo and the session details.**
 
-- Technical Conference Topics & Schedules - https://forms.gle/MvCUkVX8JfBu8J5h6
+- Technical Conference Topics & Schedules - [https://forms.gle/MvCUkVX8JfBu8J5h6](https://forms.gle/uhP6auL8qodkrbXs9)
 
 **People will upload the video in this below form which they submitted in the above form.**
 
