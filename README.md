@@ -28,8 +28,15 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 
 # Google Forms:
 
-- Technical Conference Topics & Schedules - https://forms.gle/ZGoruB7qkMyyq1F38
 - Community Volunteers Details - https://forms.gle/3KnLXBbB6zc6EDba8
+
+**People will submit their topics and photo and the session details.**
+
+- Technical Conference Topics & Schedules - https://forms.gle/ZGoruB7qkMyyq1F38
+
+**People will upload the video in this below form which they submitted in the above form.**
+
+- Technical Conference Topics Videos Upload - https://forms.gle/r2THQBNg15KPuKhf7
 
 
 # Cloud
