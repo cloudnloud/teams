@@ -42,6 +42,40 @@ https://docs.google.com/presentation/d/1k1n_U7fS30Xl5JqobHBoUQtKQapCtdLf/edit?us
 - 8: Conclusion
 - 9: Q&A
 
+# How to create linkedin POST
+
+- Sample linkedin post--- how to tag people
+
+- sample linkedin post - https://www.linkedin.com/posts/shyjustack_pods-in-kubernetes-activity-6935942603632701440-UUm_?utm_source=linkedin_share&utm_medium=member_desktop_web
+
+- Technology inspirers:
+
+ 
+Julie Elkins 
+Viktoria Semaan 
+Yujun Liang ⎈ ☁️ 
+Satyen Kumar 
+Antoni Tzavelas 
+Adrian Cantrill 
+Jason Dunn Cloud Academy, Inc. 
+Kalai Anand Ratnam (Ph.D, Ts.) 
+Ashish P. 
+Prasad Rao 
+Walter Lee 
+Bhuvaneswari Subramani
+Vijayabalan Balakrishnan
+Aishwarya Srinivasan
+Karan Singh
+Sabiha Ashik
+☀ Kiran Dongara
+Natan Yellin
+Freek Berson
+Pavan Belagatti
+Ravish Rawat
+Bharath S
+Neha Gupta
+David das Neves
+
 # Google Forms:
 
 - Community Volunteers Details - https://forms.gle/3KnLXBbB6zc6EDba8
