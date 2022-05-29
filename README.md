@@ -30,6 +30,18 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 
 https://docs.google.com/presentation/d/1k1n_U7fS30Xl5JqobHBoUQtKQapCtdLf/edit?usp=sharing&ouid=116471826804387894227&rtpof=true&sd=true
 
+# Architecture Review Template - Topics
+
+𝟏: Problem Statement
+2: Business case
+3: Current System architecture
+4: Proposed solution
+5: In Proposed solution – What are the new Services and Why those Services ? [List each service and what is the purpose ?]
+6: Proposed Architecture
+7: Advantages of Proposed architecture
+8: Conclusion
+9: Q&A
+
 # Google Forms:
 
 - Community Volunteers Details - https://forms.gle/3KnLXBbB6zc6EDba8
