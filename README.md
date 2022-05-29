@@ -26,6 +26,12 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 - 📫 How to reach me: info@cloudnloud.com.
 - 📫 How to reach us Only Whatsapp : https://discord.gg/vbjRQGVhuF
 
+### Google Forms:
+
+- Technical Conference Planning - https://forms.gle/Mp3Smy9XCV6rWZhUA
+
+- Community Volunteers Details - https://forms.gle/3KnLXBbB6zc6EDba8
+
 # Cloud
 - AZURE - AARTHI / Yashmin / Shruthi
 - AWS - Sowjanya / Shaik / Pooja
