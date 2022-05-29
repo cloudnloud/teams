@@ -26,6 +26,10 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 - 📫 How to reach me: info@cloudnloud.com.
 - 📫 How to reach us Only Whatsapp : https://discord.gg/vbjRQGVhuF
 
+# Download this PPT template and Use this PPT for all your presentations
+
+https://docs.google.com/presentation/d/1k1n_U7fS30Xl5JqobHBoUQtKQapCtdLf/edit?usp=sharing&ouid=116471826804387894227&rtpof=true&sd=true
+
 # Google Forms:
 
 - Community Volunteers Details - https://forms.gle/3KnLXBbB6zc6EDba8
