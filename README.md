@@ -48,6 +48,10 @@ https://docs.google.com/presentation/d/1k1n_U7fS30Xl5JqobHBoUQtKQapCtdLf/edit?us
 
 - sample linkedin post - https://www.linkedin.com/posts/shyjustack_pods-in-kubernetes-activity-6935942603632701440-UUm_?utm_source=linkedin_share&utm_medium=member_desktop_web
 
+# pakt books review in linkedin 
+- sample review
+- for example....very simple way...how he given review - https://www.linkedin.com/posts/prashant-lakhera-696119b_packt-kubernetes-cloud-activity-6937421651940626435-m_Ii?utm_source=linkedin_share&utm_medium=member_desktop_web
+
 - Technology inspirers:
 
  
