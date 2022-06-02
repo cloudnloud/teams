@@ -42,6 +42,9 @@ https://docs.google.com/presentation/d/1k1n_U7fS30Xl5JqobHBoUQtKQapCtdLf/edit?us
 - 8: Conclusion
 - 9: Q&A
 
+# how to make bold text in linkedin and facebook
+- https://capitalizemytitle.com/bold-text-generator/
+
 # How to create linkedin POST
 
 - Sample linkedin post--- how to tag people
