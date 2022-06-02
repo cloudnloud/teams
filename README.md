@@ -87,11 +87,14 @@ Jeff Winter
 
 **People will submit their topics and photo and the session details.**
 
-- Technical Conference Topics & Schedules - [https://forms.gle/MvCUkVX8JfBu8J5h6](https://forms.gle/uhP6auL8qodkrbXs9)
+- Technical monthly meetup's Topics & Schedules - [https://forms.gle/MvCUkVX8JfBu8J5h6](https://forms.gle/uhP6auL8qodkrbXs9)
+
+**Technical monthly meetup's - backend excel sheet** [only aarthi/shruthi/dilli/senthil having access]
+https://docs.google.com/spreadsheets/d/1fqgWY-oeZJzMsnKqAq0kcjNKqi8ZXaNlnX1e0WJgIok/edit?usp=sharing
 
 **People will upload the video in this below form which they submitted in the above form.**
 
-- Technical Conference Topics Videos Upload - https://forms.gle/r2THQBNg15KPuKhf7
+- Technical monthly meetup's  Topics Videos Upload - https://forms.gle/r2THQBNg15KPuKhf7
 
 
 # Cloud
