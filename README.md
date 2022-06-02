@@ -96,6 +96,9 @@ https://docs.google.com/spreadsheets/d/1fqgWY-oeZJzMsnKqAq0kcjNKqi8ZXaNlnX1e0WJg
 
 - Technical monthly meetup's  Topics Videos Upload - https://forms.gle/r2THQBNg15KPuKhf7
 
+# linkedin event creation - privayc policy link 
+- https://cloudnloud.com/privacy/
+
 
 # Cloud
 - AZURE - AARTHI / Yashmin / Shruthi
