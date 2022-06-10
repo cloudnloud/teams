@@ -84,7 +84,7 @@ Neha Gupta
 David das Neves
 Jeff Winter
 
-# Google Forms:
+# Google Forms: [ people who are creating training series then refere the next section.This section only monthly 1 video ]
 
 - Community Volunteers Details - https://forms.gle/3KnLXBbB6zc6EDba8
 
@@ -98,6 +98,11 @@ https://docs.google.com/spreadsheets/d/1fqgWY-oeZJzMsnKqAq0kcjNKqi8ZXaNlnX1e0WJg
 **People will upload the video in this below form which they submitted in the above form.**
 
 - Technical monthly meetup's  Topics Videos Upload - https://forms.gle/r2THQBNg15KPuKhf7
+
+# Those who are creating training and documenting in Github then thye directly create the same folder structure in the below google drive and upload all the videos as per the github naming convention
+
+- https://drive.google.com/drive/folders/1aKLND5C0V3FswUZA8hwA5Bol-OfR77Kf?usp=sharing
+
 
 # linkedin event creation - privayc policy link 
 - https://cloudnloud.com/privacy/
