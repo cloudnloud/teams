@@ -84,6 +84,10 @@ Neha Gupta
 David das Neves
 Jeff Winter
 
+# microsoft key people
+
+- Jonah Andersson - https://www.linkedin.com/in/jonahandersson/
+
 # Google Forms: [ people who are creating training series then refere the next section.This section only monthly 1 video ]
 
 - Community Volunteers Details - https://forms.gle/3KnLXBbB6zc6EDba8
