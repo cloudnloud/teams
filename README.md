@@ -87,6 +87,7 @@ Jeff Winter
 # microsoft key people
 
 - Jonah Andersson - https://www.linkedin.com/in/jonahandersson/
+- Dana Fine - https://www.linkedin.com/in/dana-fine-a626a6156/
 
 # Google Forms: [ people who are creating training series then refere the next section.This section only monthly 1 video ]
 
