@@ -8,12 +8,12 @@
 
 ** Once you published...Vijay Will approve your blog **
 
-## Step 2 - Promote yourself in linkedin
+# Step 2 - Promote yourself in linkedin
 
-# how to make bold text in linkedin and facebook
+## how to make bold text in linkedin and facebook
 - https://capitalizemytitle.com/bold-text-generator/
 
-# How to create linkedin POST
+## How to create linkedin POST
 
 - Sample linkedin post--- how to tag people
 
@@ -27,3 +27,31 @@ Julie Elkins | Viktoria Semaan  |  Yujun Liang ⎈ ☁️  | Satyen Kumar  |  An
 **AZURE or Microsoft related Posts tag  the below people**
 
 Freek Berson | Jonah Andersson | ☀️Kiran D. | Sabiha Ashik | Yujun Liang ⎈ ☁️  | Satyen Kumar  |  Antoni Tzavelas  | Adrian Cantrill | Jason Dunn | Ashish Patel | Prasad Rao | Walter Lee | Vijayabalan Balakrishnan | Aishwarya Srinivasan | Bharath Kumar Reddy | Alessandro Vozza | Asif Ali | 👨🏻‍💻 David das Neves | ☀️Kiran D. | Freek Berson | Nadia Guarino | Sherry List | Aesha Jadhav | Kamalakaar Kanchala | Namit Sinha | Susanne Tedrick | Nitin Santosh | Esther Barthel | Microsoft 
+
+
+## Use The below symbols for your linkedin posts wherever necessary
+
+💪
+🙂
+👇
+💥
+📝
+👋 Hey,
+❤️ - Red heart 
+🧑
+💻
+💚 - Green heart 
+💙 - Blue heart 
+🎯
+📢
+
+
+# Step 3 - Once you posted in your linkedin timeline. ?
+
+- Take your linkedin post URL and go to our **cloudnloud linkedin group** 👉- https://lnkd.in/e4V7bkgP and paste the post link
+
+# Step 4 - After 2 days of published hashnode [blog.cloudnloud.com] article,then go to dev.to and copy paste the same article there also.
+
+- make sure you have all the images which you saved while writing your blog in hashnode [blog.cloudnloud.com]
+- if you are not joined dev.to cloudnloud community,then speak to vijay and get the access.
+
