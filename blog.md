@@ -6,6 +6,7 @@
 
 - [How to Write a Blog and How to format and How to publish ](/docs/hash-node-blogging-howto-v1.0.pdf)
 
+
 ** Once you published...Vijay Will approve your blog **
 
 # Step 2 - Promote yourself in linkedin
