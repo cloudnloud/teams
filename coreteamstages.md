@@ -11,7 +11,21 @@ Stage 6 - solutions
 
 # multiple Stages
 
+# Stage 1
+
 | **Stage 1** 	| Task Name						| Refer this 						| 
+| ------- 		| --------------------------	| --------------------------------- |
+| Step 1  		| Blogging						|  [How to Write a Blog ](blog.md)  |
+| Step 2  		| Presentation					|  [How to Create a PPT ](ppt.md)  	|
+| Step 3  		| Github						|  [How to create documentation in github ](blog.md)  |
+| Step 4  		| Live Stream					|  [How to present live stream ](livestream.md)  	|
+| Step 5  		| Linkedin Posts				|  [How to Write a Linkedin Post ](blog.md)  |
+| Step 6  		| Tag people in linkedin Posts 	|  [How to tag people in linkedin post](blog.md)  	|
+
+
+# Stage 2
+
+| Stage 2 	| Task Name						| Refer this 						| 
 | ------- 		| --------------------------	| --------------------------------- |
 | Step 1  		| Blogging						|  [How to Write a Blog ](blog.md)  |
 | Step 2  		| Presentation					|  [How to Create a PPT ](ppt.md)  	|
