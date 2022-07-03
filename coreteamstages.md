@@ -12,6 +12,6 @@ Stage 6 - solutions
 # multiple Stages
 
 | Stage 1 | Task Name	| Refer this 						| Memory | Disk  | Operating System |
-| ------- | ------- 	| --- -------------					| ------ | ----  | ---------------- |
+| ------- | ------- 	| --------------------------------- | ------ | ----  | ---------------- |
 | Step 1  | Blogging	|  [How to Write a Blog ](blog.md)  | 1 GB   | 50 GB | CentOS / RHEL    |
 | Step 2  | Presentation|  [How to Create a PPT ](ppt.md)  	| 1 GB   | 50 GB | CentOS / RHEL    |
