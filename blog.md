@@ -1,30 +1,29 @@
 # Blogging - How to write a blog
 
-## Write blog in HashNode 
+## Step 1 - Write blog in HashNode 
+
+** important** - start save all images whatever you using for your blog in folder wise in your ** local laptop or in your google drive without fail**
 
 - [How to Write a Blog and How to format and How to publish ](/docs/hash-node-blogging-howto-v1.0.pdf)
 
+** Once you published...Vijay Will approve your blog **
 
-🎯 You looking for candidates who are cleared niche certifications with hands-on experience ?
+## Step 2 - Promote yourself in linkedin
 
-Submit your job details along with expected Job Description ❓ , Click the below link 👇
+# how to make bold text in linkedin and facebook
+- https://capitalizemytitle.com/bold-text-generator/
 
-https://lnkd.in/eqFiA4Xp
+# How to create linkedin POST
+
+- Sample linkedin post--- how to tag people
+
+- sample linkedin post - https://www.linkedin.com/posts/shyjustack_pods-in-kubernetes-activity-6935942603632701440-UUm_?utm_source=linkedin_share&utm_medium=member_desktop_web
+
+- ** AWS Posts tag  the below people **
+
+Julie Elkins | Viktoria Semaan  |  Yujun Liang ⎈ ☁️  | Satyen Kumar  |  Antoni Tzavelas  | Adrian Cantrill | Jason Dunn | Ashish Patel | Prasad Rao | Walter Lee | Vijayabalan Balakrishnan | Aishwarya Srinivasan | Bharath Kumar Reddy | Alessandro Vozza | Asif Ali | 👨🏻‍💻 David das Neves | ☀️Kiran D. | Sabiha Ashik |
 
 
-❤️ 𝐀𝐫𝐞 𝐲𝐨𝐮 𝐥𝐨𝐨𝐤𝐢𝐧𝐠 𝐟𝐨𝐫 𝐉𝐨𝐛 ? ❤️
+- ** AZURE or Microsoft related Posts tag  the below people **
 
-🎯 Submit your Details
-🎯 Submit your Resume
-🎯 Clear our Assessment Exams.
-🎯 Collect the Digital Exam Certificate.
-🎯 You will go through BGC verification process.
-🎯 Once all Approved then your resume will be shared to right company openings.
-
-Submit your resume with right details ❓ , Click the below link 👇
-
-https://lnkd.in/en6B23m6
-
-refer the below linkedin post
-
-https://www.linkedin.com/posts/cloudnloud_career-linux-cloudcomputing-activity-6938500364925059072-H0My?utm_source=linkedin_share&utm_medium=member_desktop_web
+Freek Berson | Jonah Andersson | ☀️Kiran D. | Sabiha Ashik | Yujun Liang ⎈ ☁️  | Satyen Kumar  |  Antoni Tzavelas  | Adrian Cantrill | Jason Dunn | Ashish Patel | Prasad Rao | Walter Lee | Vijayabalan Balakrishnan | Aishwarya Srinivasan | Bharath Kumar Reddy | Alessandro Vozza | Asif Ali | 👨🏻‍💻 David das Neves | ☀️Kiran D. | Freek Berson | Nadia Guarino | Sherry List | Aesha Jadhav | Kamalakaar Kanchala | Namit Sinha | Susanne Tedrick | Nitin Santosh | Esther Barthel | Microsoft 
