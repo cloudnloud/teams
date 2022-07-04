@@ -22,7 +22,7 @@
 
 **AWS Posts tag  the below people**
 
-Julie Elkins | Viktoria Semaan  |  Yujun Liang ⎈ ☁️  | Satyen Kumar  |  Antoni Tzavelas  | Adrian Cantrill | Jason Dunn | Ashish Patel | Prasad Rao | Walter Lee | Vijayabalan Balakrishnan | Aishwarya Srinivasan | Bharath Kumar Reddy | Alessandro Vozza | Asif Ali | 👨🏻‍💻 David das Neves | ☀️Kiran D. | Sabiha Ashik |
+Julie Elkins | Viktoria Semaan  |  Yujun Liang ⎈ ☁️  | Satyen Kumar  |  Antoni Tzavelas  | Adrian Cantrill | Jason Dunn | Ashish Patel | Prasad Rao | Walter Lee | Vijayabalan Balakrishnan | Aishwarya Srinivasan | Bharath Kumar Reddy | Alessandro Vozza | Asif Ali | 👨🏻‍💻 David das Neves | ☀️Kiran D. | Sabiha Ashik | Justin Garrison
 
 
 **AZURE or Microsoft related Posts tag  the below people**
