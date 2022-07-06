@@ -9,7 +9,7 @@ Watch the video to understand about how to create poster in canva.
 
 **click this below image to lern training**
 
-[![Watch the video](./image/How-create-posters-in-canva.png)](https://youtu.be/xnHH21CEluM)
+[![Watch the video](./images/How-create-posters-in-canva.png)](https://youtu.be/xnHH21CEluM)
 
 ## Step 1 - Write blog in HashNode 
 
