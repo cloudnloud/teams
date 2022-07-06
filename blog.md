@@ -9,7 +9,8 @@ Watch the video to understand about how to create poster in canva.
 
 **click this below image to learn detailed handson training**
 
-[![Watch the video](./images/How-create-posters-in-canva.png)](https://youtu.be/xnHH21CEluM) width="75px;" height="75px;
+[![Watch the video](./images/How-create-posters-in-canva.png)](https://youtu.be/xnHH21CEluM)
+
 
 ## Step 1 - Write blog in HashNode 
 
