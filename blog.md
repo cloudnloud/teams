@@ -1,5 +1,14 @@
 # Blogging - How to write a blog
 
+# Step 0.1 - create all posters using canva.
+
+- **hashnode cover poster Recommended dimension is 1600 x 840**
+- **in your blog all posters can be the same youtube thumbinail size,or linkedin post size or facebook post image size** 
+
+Watch the video to understand about how to create poster in canva.
+
+- [**Canva poster creation Training**] (https://youtu.be/xnHH21CEluM)
+
 ## Step 1 - Write blog in HashNode 
 
 ** important** - start save all images whatever you using for your blog in folder wise in your ** local laptop or in your google drive without fail**
@@ -7,7 +16,10 @@
 - [How to Write a Blog and How to format and How to publish ](/docs/hash-node-blogging-howto-v1.0.pdf)
 
 
+
 ** Once you published...Vijay Will approve your blog **
+
+
 
 # Step 2 - Promote yourself in linkedin
 
