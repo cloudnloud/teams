@@ -17,7 +17,7 @@ Those who are planning to create visibility via life growth then the below stage
 | ------- 		| --------------------------	| --------------------------------- |
 | Step 1  		| Blogging						|  [How to Write a Blog ](blog.md)  |
 | Step 2  		| Presentation					|  [How to Create a PPT ](ppt.md)  	|
-| Step 3  		| Github						|  [How to create documentation in github ](blog.md)  |
+| Step 3  		| Github						|  [How to create documentation in github ](github.md)  |
 | Step 4  		| Live Stream					|  [How to present live stream ](livestream.md)  	|
 | Step 5  		| Linkedin Posts				|  [How to Write a Linkedin Post ](blog.md)  |
 | Step 6  		| Tag people in linkedin Posts 	|  [How to tag people in linkedin post](blog.md)  	|
