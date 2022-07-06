@@ -17,6 +17,9 @@ Watch the video to understand about how to create poster in canva.
 
 - [How to Write a Blog and How to format and How to publish ](/docs/hash-node-blogging-howto-v1.0.pdf)
 
+## Step 1.1 - check all your blog content towards **Plagiarism**
+
+copy paste in this the https://www.duplichecker.com/ website.check the Plagiarism.If you found Plagiarism..then goto https://www.reverso.net/spell-checker/english-spelling-grammar/ rephrase the words and again check the Plagiarism.
 
 
 ** Once you published...Vijay Will approve your blog **
