@@ -12,6 +12,11 @@ Watch the video to understand about how to create poster in canva.
 [![Watch the video](./images/How-create-posters-in-canva.png)](https://youtu.be/xnHH21CEluM)
 
 
+# How to design Canva Poster - Class 1
+
+<a href="https://youtu.be/xnHH21CEluM"><img src="./images/How-create-posters-in-canva.png" width="300px;" height="300px;" alt="Canva Class 1"/><br /><b>Canva Class 1</b>
+
+
 ## Step 1 - Write blog in HashNode 
 
 ** important** - start save all images whatever you using for your blog in folder wise in your ** local laptop or in your google drive without fail**
