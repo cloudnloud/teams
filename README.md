@@ -171,7 +171,7 @@ https://docs.google.com/spreadsheets/d/1fqgWY-oeZJzMsnKqAq0kcjNKqi8ZXaNlnX1e0WJg
 3. linux Security - 2 top tools
 4. Linux 
 
-# Developer -Microservices - Beginner
+# Developer -Microservices - Beginner - Muthu
 👇
 ** Key Notes about .net core to work on.
 
@@ -194,7 +194,7 @@ https://docs.google.com/spreadsheets/d/1fqgWY-oeZJzMsnKqAq0kcjNKqi8ZXaNlnX1e0WJg
 	- *Create jenkins pipeline using jenkinsfile and deploy this application
 	- *Deploy in Kubernetes cluster
 	
-** 2. Develop microservices using .net core 
+** 2. Develop microservices using .net core  - muthu
 
 	- *Deploy in standlone server
 	- *Deploy in Azure web app
@@ -202,7 +202,7 @@ https://docs.google.com/spreadsheets/d/1fqgWY-oeZJzMsnKqAq0kcjNKqi8ZXaNlnX1e0WJg
 	- *Deploy in virtual machine created in azure and aws 
 	- *Deploy in Kubernetes cluster
 	
-** 3. Create pipline to deploy application in kubernetes cluster. using the coding like python, java
+** 3. Create pipline to deploy application in kubernetes cluster. using the coding like python, java - muthu
 
 
 
