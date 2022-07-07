@@ -45,7 +45,7 @@ Julie Elkins | Viktoria Semaan  |  Yujun Liang ⎈ ☁️  | Satyen Kumar  |  An
 
 **AZURE or Microsoft related Posts tag  the below people**
 
-Freek Berson | Jonah Andersson | ☀️Kiran D. | Sabiha Ashik | Yujun Liang ⎈ ☁️  | Satyen Kumar  |  Antoni Tzavelas  | Adrian Cantrill | Jason Dunn | Ashish Patel | Prasad Rao | Walter Lee | Vijayabalan Balakrishnan | Aishwarya Srinivasan | Bharath Kumar Reddy | Alessandro Vozza | Asif Ali | 👨🏻‍💻 David das Neves | ☀️Kiran D. | Freek Berson | Nadia Guarino | Sherry List | Aesha Jadhav | Kamalakaar Kanchala | Namit Sinha | Susanne Tedrick | Nitin Santosh | Esther Barthel | Microsoft | Matt Renner | Deb Cupp | Paul Kimbel | Tim Aranki | Rob Young | Mary Carol Alexander | Shawn Henderson | John Savill 
+Freek Berson | Jonah Andersson | ☀️Kiran D. | Sabiha Ashik | Yujun Liang ⎈ ☁️  | Satyen Kumar  |  Antoni Tzavelas  | Adrian Cantrill | Jason Dunn | Ashish Patel | Prasad Rao | Walter Lee | Vijayabalan Balakrishnan | Aishwarya Srinivasan | Bharath Kumar Reddy | Alessandro Vozza | Asif Ali | 👨🏻‍💻 David das Neves | Nadia Guarino | Sherry List | Aesha Jadhav | Kamalakaar Kanchala | Namit Sinha | Susanne Tedrick | Nitin Santosh | Esther Barthel | Microsoft | Matt Renner | Deb Cupp | Paul Kimbel | Tim Aranki | Rob Young | Mary Carol Alexander | Shawn Henderson | John Savill 
 
 
 ## Use The below symbols for your linkedin posts wherever necessary
