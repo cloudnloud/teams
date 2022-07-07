@@ -5,9 +5,7 @@
 - **hashnode cover poster Recommended dimension is 1600 x 840**
 - **in your blog all posters can be the same youtube thumbinail size,or linkedin post size or facebook post image size** 
 
-Watch the video to understand about how to create poster in canva.
-
-**click this below image to learn detailed handson training**
+- Watch the video to understand about how to create poster in canva.
 
 # How to design Canva Poster - Class 1
 
