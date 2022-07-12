@@ -18,7 +18,10 @@
 - https://www.linkedin.com/in/ioanna-glinos-147970125/
 - https://www.linkedin.com/in/karen-vermeiren-a4a635/
 - https://www.linkedin.com/in/alexander-larose-4b545310b/
-- 
+- https://www.linkedin.com/in/manal-bchiri/
+- https://www.linkedin.com/in/kellydejonghe/
+- https://www.linkedin.com/in/widad-el-aouam-773b4018b/
+- https://www.linkedin.com/in/ulrikedesmedt/
 
 # United Kingdom
 
