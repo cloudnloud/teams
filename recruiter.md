@@ -9,6 +9,15 @@
 - https://www.linkedin.com/in/yvanarkhurst/
 - https://www.linkedin.com/in/l%C3%A9ana-caetano/
 - https://www.linkedin.com/in/anaczapla/
+- https://www.linkedin.com/in/leoni-viljoen-a550405/
+- https://www.linkedin.com/in/anouck-saman/
+- https://www.linkedin.com/in/nelevanhooste/
+- https://www.linkedin.com/in/robinsterckx/
+- https://www.linkedin.com/in/philippehoutart/
+- https://www.linkedin.com/in/rebekah-crawford-493901/
+- https://www.linkedin.com/in/ioanna-glinos-147970125/
+- https://www.linkedin.com/in/karen-vermeiren-a4a635/
+- https://www.linkedin.com/in/alexander-larose-4b545310b/
 - 
 
 # United Kingdom
