@@ -99,6 +99,21 @@
 - My Location - Chennai
 - My Skills - AWS, Azure, Websphere,Devops
 
+## Connect with Vijayalakshmi B
+
+<a href="https://www.linkedin.com/in/vijib" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+ 
+  
+
+- name - Vijayalakshmi B
+- Mail  - vijieng12@gmail.com 
+- My Location - CHENNAI
+- My Skills - Azure,DevOps,Docker,Linux,Jenkins,DevOps
+- Skills Allocated in CNL -  Cloud and DevOps
+
 ## Connect with Ramaswamy Arunachalam 
 
 <a href="https://www.linkedin.com/in/ramstack/" target="_blank">
