@@ -139,24 +139,22 @@
 - Skills Alocated in CNL - Business Management
 
 
+https://www.linkedin.com/in/shaikstack/
 
+## Connect with shaik shahid
 
-## Connect with Khaja
-
-<a href="https://www.linkedin.com/in/khaja143/" target="_blank">
+<a href="https://www.linkedin.com/in/shaikstack/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/khaja.moinuddin.md" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
+
 
 
   
 
-- Mail - khaja@cloudnloud.com
+- Mail - shahed.zuhi@gmail.com
 - My Location - Hyderabad
-- My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins
-- Skills Alocated in CNL - Kubernetes,Cloud Native,Business Management
+- My Skills - BUsiness Intelligence
+- Skills Alocated in CNL - BUsiness Intelligence,BI Analyst
 
 
 ## Connect with Muthuraj Anbalagan
