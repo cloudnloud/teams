@@ -12,7 +12,7 @@
 <a href="https://youtu.be/xnHH21CEluM"><img src="./images/How-create-posters-in-canva.png" width="300px;" height="300px;" alt="Canva Class 1"/><br /><b>Canva Class 1</b>
 
 
-# canva class2 - https://youtu.be/ZoTCaQ34jhs
+# Canva Class 2 - https://youtu.be/ZoTCaQ34jhs
 # canva class3 - https://youtu.be/lmPCow93TR0
 # canva class4 - https://youtu.be/-hjKuz1ZlmE
 
