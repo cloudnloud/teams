@@ -85,6 +85,45 @@
 - My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins
 - Skills Alocated in CNL - Azure
 
+## Connect with Dilliraj Balakrishnan
+
+<a href="https://www.linkedin.com/in/devdilli/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+ 
+  
+
+- name - Dilliraj Balakrishnan
+- Mail -  dillirajsbr@gmail.com
+- My Location - Chennai
+- My Skills - AWS, Azure, Websphere,Devops
+
+## Connect with Ramaswamy Arunachalam 
+
+<a href="https://www.linkedin.com/in/ramstack/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+ 
+- name - Ramaswamy Arunachalam 
+- Mail - ramtamilan@yahoo.co.in
+- My Location - Wellington, NZ
+- My Skills - AWS, Azure, Windows, AD, VMware, Citrix, Virtualization (Application, VDI), Terraform.
+
+## Connect with Sanjay Surwase
+
+<a href="https://www.linkedin.com/in/sanjay-surwase/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+ 
+- name - Sanjay Surwase
+- Mail - sanjaybsurwase@gmail.com
+- My Location - Pune
+- My Skills - AWS, DevOps, Kubernetes, Docker, Ansible, Linux, Jenkins, Terraform
+- Skills Allocated in CNL - Linux, Cloud Native
+
 
 ## Connect with Yasmin Sheik
 
