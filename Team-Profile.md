@@ -103,6 +103,20 @@
 - My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins
 - Skills Alocated in CNL - Azure,Azure Kubernetes,Azure Data
 
+
+## Connect with Arshiya khannum
+
+<a href="https://www.linkedin.com/in/arshiastack/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+ 
+
+- Mail - arshiakhannum16@gmail.com
+- My Location - Bangalore
+- My Skills - Java,Selenium Testing Developer
+- Skills Alocated in CNL - Manual Testing,Automation Testing
+
+
 ## Connect with Mounika
 
 <a href="https://www.linkedin.com/in/mounistack/" target="_blank">
