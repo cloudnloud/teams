@@ -178,16 +178,13 @@
 - Skills Alocated in CNL - Business Management
 
 
-https://www.linkedin.com/in/shaikstack/
+
 
 ## Connect with shaik shahid
 
 <a href="https://www.linkedin.com/in/shaikstack/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-
-
-
   
 
 - Mail - shahed.zuhi@gmail.com
@@ -195,6 +192,16 @@ https://www.linkedin.com/in/shaikstack/
 - My Skills - BUsiness Intelligence
 - Skills Alocated in CNL - BUsiness Intelligence,BI Analyst
 
+## Connect with Padmini Tadikonda
+
+<a href="https://www.linkedin.com/in/padministack/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+  
+- Mail - ptadikonda1991@gmail.com
+- My Location - Hyderabad
+- My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins,DevOps
+- Skills Alocated in CNL - Azure,Azure Kubernetes, DevOps
 
 ## Connect with Muthuraj Anbalagan
 
