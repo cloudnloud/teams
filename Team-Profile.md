@@ -114,6 +114,21 @@
 - My Skills - Azure,DevOps,Docker,Linux,Jenkins,DevOps
 - Skills Allocated in CNL -  Cloud and DevOps
 
+## Connect with Kannammal Gopalakrishnan
+
+<a href="https://www.linkedin.com/in/kannamg" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+ 
+  
+
+- name - Kannammal Gopalakrishnan
+- Mail - kannam.87@gmail.com
+- My Location - Chennai
+- My Skills - Windows administration, Unix and Linux basic administration, Basic Exchange Administration and Mailbox creations through scripts, Active Directory, Identity access management tools and administration, IT service management
+- Skills Allocated in CNL - Manager for Compliance and Process Testing team nder Security Risk and Compliance
+
 ## Connect with Ramaswamy Arunachalam 
 
 <a href="https://www.linkedin.com/in/ramstack/" target="_blank">
