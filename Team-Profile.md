@@ -117,6 +117,31 @@
 - Skills Alocated in CNL - Manual Testing,Automation Testing
 
 
+## Connect with Akhil Dsouza
+
+<a href="https://www.linkedin.com/in/dsouzaakhil/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+ 
+
+- Mail - dsouzaakhil07@gmail.com
+- My Location - Bangalore
+- My Skills - Terraform and Slowly want to be a GOLANG Developer
+- Skills Alocated in CNL - Terraform Automation in AZURE
+
+
+## Connect with Akhil Dsouza
+
+<a href="https://www.linkedin.com/in/sreetech/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+ 
+
+- Mail - sreedevivaleti16@gmail.com
+- My Location - Hyderabad
+- My Skills - Cloud and Devops
+- Skills Alocated in CNL - Linux,Ansible,docker,kubernetes,aws,azure,python.....She want to become good Data Scientist
+
 ## Connect with Mounika
 
 <a href="https://www.linkedin.com/in/mounistack/" target="_blank">
