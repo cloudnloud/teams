@@ -55,6 +55,17 @@ Freek Berson | Jonah Andersson | ☀️Kiran D. | Sabiha Ashik | Yujun Liang ⎈
   
 Ammett Williams    |   
   
+# BI Analytics leaders/Influencers
+  
+Ronald Vanloon    |    Hilary Mason    |   Yves Mulkers
+4.Claudia Imhoff
+5.Cindi Howson
+6.Stacia Varga
+7.Alexander Thamm
+8.Boris Evelson
+9.Mike Ferguson
+10.Richard Hackathorn
+  
 ## Use The below symbols for your linkedin posts wherever necessary
 
 💪
