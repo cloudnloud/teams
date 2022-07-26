@@ -85,6 +85,20 @@
 - My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins
 - Skills Alocated in CNL - Azure
 
+
+## Connect with Divya A
+
+<a href="https://www.linkedin.com/in/divyaturf/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+ 
+
+- Mail - divyabiotk@gmail.com
+- My Location - Chennai
+- My Skills - HR & Recruitment
+- Skills Alocated in CNL - Recruitment
+
+
 ## Connect with Dilliraj Balakrishnan
 
 <a href="https://www.linkedin.com/in/devdilli/" target="_blank">
