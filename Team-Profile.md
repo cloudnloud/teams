@@ -143,6 +143,18 @@
 - My Skills - Windows administration, Unix and Linux basic administration, Basic Exchange Administration and Mailbox creations through scripts, Active Directory, Identity access management tools and administration, IT service management
 - Skills Allocated in CNL - Manager for Compliance and Process Testing team nder Security Risk and Compliance
 
+## Connect with Sreekanth M
+
+<a href="https://www.linkedin.com/in/sreearchitect/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+  
+
+- Mail - m.srikanth524u@gmail.com
+- My Location - Hyderabad
+- My Skills - Aws,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins,cloudflare,datacenter virtual maintanance
+- Skills Alocated in CNL - SRE
+
 ## Connect with Ramaswamy Arunachalam 
 
 <a href="https://www.linkedin.com/in/ramstack/" target="_blank">
