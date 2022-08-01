@@ -503,6 +503,32 @@
 - My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins,Terraform
 - Skills Alocated in CNL - Solution Architecture
 
+## Connect with Manzoor Ahamed
+
+<a href="https://www.linkedin.com/in/techmahan/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+ 
+
+- Mail - Manzoor.sr@gmail.com
+- My Location - Bangalore
+- My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins
+- Skills Alocated in CNL - AWS
+
+
+
+## Connect with Sampath Kumar Basa
+
+<a href="https://www.linkedin.com/in/samtechno/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+ 
+
+- Mail - sampathkumarbasa@gmail.com
+- My Location - Hyderabad
+- My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins
+- Skills Alocated in CNL - AWS
+
 
 
 <br/>  
