@@ -83,7 +83,7 @@
 - Mail - shruthikini.93@gmail.com
 - My Location - Bangalore
 - My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins
-- Skills Alocated in CNL - Azure
+- Skills Alocated in CNL - Azure, CI/CD, Azure data, Community relations
 
 
 ## Connect with Divya A
@@ -207,7 +207,7 @@
 - Mail - Yasminsk5657@gmail.com
 - My Location - Australia
 - My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins
-- Skills Alocated in CNL - Azure,Azure Kubernetes,Azure Data
+- Skills Alocated in CNL - Azure,Azure Kubernetes,Azure Data, Feature testing
 
 
 ## Connect with Arshiya khannum
