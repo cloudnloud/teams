@@ -534,6 +534,106 @@
 <br/>  
 
 
+# Vijay - Reviewing
+
+## Connect with Vinothkumar Ganesan
+
+<a href="https://www.linkedin.com/in/gvinothan" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+ 
+
+- Mail - gvinothan@gmail.com
+- My location: Bangalore
+- My skils: Linux, Kubernetes, Azure
+- Skills Alocated in CNL - Yet to Be Discussed with VIJAY
+
+
+
+
+## Connect with Aadhityaa SB
+
+<a href="https://www.linkedin.com/in/aadhityaasb/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+ 
+- Mail - 1234aadhityaa@gmail.com
+- My location: Chennai(working at coimbatore)
+- My skils: python developer, AI/ML, Data Science, Blockchain, metaverse, AR,VR, mechatronics, automation, Research and development
+- Skills Alocated in CNL - Yet to Be Discussed with VIJAY
+
+
+
+
+## Connect with Prasanth chandrasekaran
+
+<a href="https://www.linkedin.com/in/prasanthstack/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+ 
+- Mail - prasanth55655@gmail.com
+- My location: Tirupur (Studying masters in coimbatore)
+- My skils: wordpress, web server maintenance, linux
+- Skills Alocated in CNL - Yet to Be Discussed with VIJAY
+
+
+
+## Connect with Mathangi Chandrasekaran
+
+<a href="https://www.linkedin.com/in/math18/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+ 
+- Mail - math_cloud@outlook.com
+- My location: Coimbatore
+- My skils: m365 administration, AWS & Azure administration, terraform
+- Skills Alocated in CNL - Yet to Be Discussed with VIJAY
+
+
+
+
+
+
+## Connect with Karuppasamy PKN
+
+<a href="https://www.linkedin.com/in/ksamypkn" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+ 
+- Mail - kannakaruppasamy@gmail.com
+- My location: Coimbatore
+- My skils: Full stack development - MERN and MEAN, Blockchain - Ethereum and Algorand, Hosting on AWS, Digital Ocean. Have worked on microservice architecture in AWS, with terraform.
+- Skills Alocated in CNL - Yet to Be Discussed with VIJAY
+
+
+
+
+Mail - veerasolaiyappan@gmail.com
+Location - Coimbatore
+
+LinkedIn URL - https://www.linkedin.com/in/veera-solaiyappan-a5182418a/
+
+
+
+## Connect with Veera Solaiyappan
+
+<a href="https://www.linkedin.com/in/veera26/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+ 
+- Mail - kannakaruppasamy@gmail.com
+- My location: Coimbatore
+- My skils: 
+- Web Development :  MERN & MEVN stack (Intermediate)
+- Database : MySql, Oracle, Postgresql, MongoDB (Intermediate)
+- Mobile Development : React native (Intermediate)
+- Devops: Docker, kubernetes, Github actions, Ansible (Beginner),
+- Git, Terraform (intermediate)
+- Cloud - AWS, Azure Devops, Digital ocean (Beginner)
+- AI & ML Algorithms (Beginner)
+
+- Skills Alocated in CNL - Yet to Be Discussed with VIJAY
+
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bvijaycom&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
