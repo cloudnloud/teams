@@ -11,4 +11,8 @@
 
 # doubts
 
-- 
+- I have 3 machines for ansible and node
+- For ansible server i having ansible user
+- For node1 server having node1 user
+- For node2 server having node2 user
+- How to connect the nodes in asnible????? 
