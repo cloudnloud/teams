@@ -1,20 +1,28 @@
 ## Fullstack application development & Deployment automation
 
-### Step-1 MERN stack application development - (Todo app)
+### Section - 1
+- [ ] Legacy application development - Monolithic
+- [ ] Microservice application development
+
+
+### Section-2 MERN stack application development - (Todo app)
 
 - [ ] prerequisites setup
 - [ ] To Create Nodejs backend api server - (Todo-api)
 - [ ] To Create Reactjs web application - (Todo-web)
-- [ ] Api integration and Testing
+- [ ] Api integration and Testing - Overview about integration and test cases details
 
-### Step-2 Deployment
+### Section-3 Deployment
 
-- [ ] To deploy in virtual machine created in azure and aws - create machine and install NGNIX - Deploy and explain
-- [ ] To deploy in Azure web app
-- [ ] To deploy in Aws Elastic beanstalk
-- [ ] To create AWS Code Pipeline and deploy this application
-- [ ] To create jenkins pipeline using jenkinsfile and deploy this application
+- [ ] To deploy in virtual machine created in azure and aws -  create virtual machine - Preq NGNIX installation - install NGNIX - Deploy and explain procedure
+- [ ] To deploy in Azure web app - explanation and demo
+- [ ] To deploy in Aws Elastic beanstalk- explanation and demo
+- [ ] To create jenkins pipeline using jenkinsfile and deploy this application -
+- [ ] To create AWS Code Pipeline and deploy this application - explanation and demo
 - [ ] To create github actions CI/CD pipeline and deploy this application
-- [ ] To deploy in Kubernetes cluster 
+- [ ] To deploy in Kubernetes cluster - How to deploy Mannual opensource kubernetes cluster environment ?
+- [ ] How to deploy managed kubernetes cluster (Aws kubernetes service) and (Azure kubernetes service) ?
+ 
 
+ 
   
