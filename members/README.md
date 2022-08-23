@@ -9,3 +9,4 @@
 
 - **AADITHIYA** - Coimbatore - Completed
 - **Arunkumar Hari** - USA - storage & AWS - notepad preparation in progress
+- **veera,kanna,** - Developers - had an first level discussions
