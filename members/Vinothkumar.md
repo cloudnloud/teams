@@ -27,7 +27,9 @@
 
 # I Am Become: 
 
-* No idea
+-  **Trainner**
+-  **Uboard Jobs**
+
 
 
 
