@@ -30,6 +30,17 @@
 -  **Trainner**
 -  **Settle down in Uboard**
 
+# Need to do 
+
+- ## **CKA**
+
+- ## **CKS**
+-
+- ## **AWS**/AZURE ? 
+
+- ## **Solution Architect**
+- 
+- ## **Terraform**
 
 
 
