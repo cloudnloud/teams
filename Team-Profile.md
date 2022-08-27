@@ -395,8 +395,8 @@
   
 
 - Mail - asrsri.adde@gmail.com
-- My Location - London,UK
-- My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins,Terraform
+- My Location - Coventry,UK
+- My Skills - AWS, Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins,Terraform
 - Skills Alocated in CNL - Solution Architecture
 
 
