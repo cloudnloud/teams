@@ -86,18 +86,6 @@
 - Skills Alocated in CNL - Azure, CI/CD, Azure data, Community relations
 
 
-## Connect with Divya A
-
-<a href="https://www.linkedin.com/in/divyaturf/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
- 
-
-- Mail - divyabiotk@gmail.com
-- My Location - Chennai
-- My Skills - HR & Recruitment
-- Skills Alocated in CNL - Recruitment
-
 ## Connect with Sreekanth Kurapati
 
 <a href="https://www.linkedin.com/in/sreestack/" target="_blank">
@@ -234,36 +222,6 @@
 - My Location - Bangalore
 - My Skills - Terraform and Slowly want to be a GOLANG Developer
 - Skills Alocated in CNL - Terraform Automation in AZURE
-
-
-## Connect with Sreedevi Valeti
-
-<a href="https://www.linkedin.com/in/sreetech/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
- 
-
-- Mail - sreedevivaleti16@gmail.com
-- My Location - Hyderabad
-- My Skills - Cloud and Devops
-- Skills Alocated in CNL - Linux,Ansible,docker,kubernetes,aws,azure,python.....She want to become good Data Scientist
-
-## Connect with Mounika
-
-<a href="https://www.linkedin.com/in/mounistack/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/mounika.kanda.963" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-
-
-  
-
-- Mail - dasarimounika707@gmail.com
-- My Location - Hyderabad
-- My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins
-- Skills Alocated in CNL - DevOps
 
 
 ## Connect with Pravitha
@@ -433,23 +391,6 @@
 - My Location - Chennai
 - My Skills - AWS,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins,Terraform
 - Skills Alocated in CNL - Linux,Cloud Native
-
-## Connect with Soujanya G
-
-<a href="https://www.linkedin.com/in/soujanyatech/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/soujayna.ganti" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-
- 
-  
-
-- Mail - soujanya.ganti4@gmail.com
-- My Location - Hyderabad
-- My Skills - AWS,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins,Terraform
-- Skills Alocated in CNL - AWS
 
 ## Connect with Rameshkumar Muthusamy
 
