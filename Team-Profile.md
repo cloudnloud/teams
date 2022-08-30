@@ -519,22 +519,6 @@
 
 
 
-## Connect with Mathangi Chandrasekaran
-
-<a href="https://www.linkedin.com/in/math18/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
- 
-- Mail - math_cloud@outlook.com
-- My location: Coimbatore
-- My skils: m365 administration, AWS & Azure administration, terraform
-- Skills Alocated in CNL - Yet to Be Discussed with VIJAY
-
-
-
-
-
-
 ## Connect with Karuppasamy PKN
 
 <a href="https://www.linkedin.com/in/ksamypkn" target="_blank">
