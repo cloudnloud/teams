@@ -1,14 +1,14 @@
 # Name: ARUNPRABHU T
-============================================================================================
+
 ## Location: Bangalore
-============================================================================================
+
 ## Expirence: 15+ Years
-============================================================================================
+
 ## Qualification
-  Bachelor of Engineering 
-============================================================================================
+Bachelor of Engineering 
+
 ## Technical skills
-============================================================================================
+
 *PLATFORM* : AZURE Cloud Infrastructure
           - VMs
           - ANF Storage
@@ -32,13 +32,12 @@
            - OCI Foundations Associate
            - RHCSA 
            - 4+ AIX Certification
-===========================================================================================
-*Future PLan*         
+
+_Future PLan_         
            - Kuberneties 
-           - Multi Cloud 
-           - Cloud Architecture 
+           - Multi Cloud Architecture 
            - Additional automation ( Terraform) 
-  =========================================================================================     
+   
  
 Architecture Review Template - Topics
 𝟏: Problem Statement
