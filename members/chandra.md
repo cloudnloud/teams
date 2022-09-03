@@ -17,7 +17,7 @@
 #### *Automation and scripting* : SHELLSCRIPTING,PYTHON,BASIC TERRAFORM
           - Automating security builds ,parsers,jobs
           
-#### *Automation and scripting* : SHELLSCRIPTING,PYTHON,BASIC TERRAFORM
+#### *CERTS* : 
           - CCNP
           - Qualys 
           - Carbonblack 
