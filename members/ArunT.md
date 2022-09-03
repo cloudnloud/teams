@@ -33,7 +33,7 @@ Bachelor of Engineering
            - RHCSA 
            - 4+ AIX Certification
 
-### _Future PLan_         
+### _Future Plan_         
            - Kuberneties 
            - Multi Cloud Architecture 
            - Additional automation ( Terraform) 
