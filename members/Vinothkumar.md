@@ -54,4 +54,7 @@
 - 8: Conclusion
 - 9: Q&A
 
-- 5 blogs
+# Tasks to do 
+
+- 5 blogs - normal Architecture
+- then start towards security related
