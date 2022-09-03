@@ -9,5 +9,5 @@
 
 - **AADITHIYA** - Coimbatore - Completed
 - **Arunkumar Hari** - USA - storage & AWS - notepad preparation in progress
-- **veera,kanna,karthik** - Developers - had an first level discussions
+- **veera,kanna,karthik,deepika** - Java Developers - completed
 - **Vinothkumar Ganesan**, Bangalore  - Members details updated and Discussion is pending.
