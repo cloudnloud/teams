@@ -14,7 +14,7 @@
 **Technical Skills:**
 
 - 1. Manual testing, Automation testing,
-- 2. Java, selenium, C#, 
+- 2. Java, selenium, 
 - 3. Linux,
 - 4. GIT , Maven , Jenkins,
 - 5. Docker,
