@@ -9,7 +9,7 @@ Bachelor of Engineering
 
 ## Technical skills
 
-####*PLATFORM* : AZURE Cloud Infrastructure
+#### *PLATFORM* : AZURE Cloud Infrastructure
           - VMs
           - ANF Storage
           - Disaster Recovry setup
