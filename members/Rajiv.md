@@ -1,6 +1,5 @@
-# I am:
+# Rajiv
 
-- Name - Rajiv
 - Location - Bangalore
 - Experience - 10 + years
 
