@@ -1,5 +1,5 @@
-# Manohar Reddy
-*Basically from the non-IT background 
+# Newbie into this domain
+Basically from the non-IT background 
 Learned AWS and a few tools related to DevOps. Currently working in a small startup for the last 2 months.
 Have knowledge of the below areas - AWS, Shell/Bash, Git, GitHub, Jenkins, Ansible, Terraform, Docker, and Kubernetes.
 **My goal is to become a very knowledgeable resource in the Cloud and DevOps domain.
