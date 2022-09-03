@@ -23,7 +23,7 @@
 **==================================================================================**
 **Certifications:**
 
-**AWS - **
+**AWS -**
 - 1. AWS cloud practitioner  
 - 2. AWS certified Solutions Architect
 
