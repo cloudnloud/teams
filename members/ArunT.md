@@ -9,7 +9,7 @@ Bachelor of Engineering
 
 ## Technical skills
 
-*PLATFORM* : AZURE Cloud Infrastructure
+####*PLATFORM* : AZURE Cloud Infrastructure
           - VMs
           - ANF Storage
           - Disaster Recovry setup
@@ -17,23 +17,23 @@ Bachelor of Engineering
           - BACKUP
           - ANF SNAPSHOT
  
-*OS*    :  Linux 
+#### *OS*    :  Linux 
            - Redhat 
               - Pacemaker Cluster
            AIX
             - PowerHA
             - Virtualization
           
-*Automation*
+#### *Automation*
            - Ansible
            - Shell scripting
-*Certification* 
+#### *Certification* 
            - AZ109 : Azure Adaministration
            - OCI Foundations Associate
            - RHCSA 
            - 4+ AIX Certification
 
-_Future PLan_         
+### _Future PLan_         
            - Kuberneties 
            - Multi Cloud Architecture 
            - Additional automation ( Terraform) 
