@@ -34,6 +34,7 @@ BE (Computer Science & Engineering)
 2. DP-900: Microsoft Azure Data Fundamentals
 3. AI-900: Microsoft AI Fundamentals
 **===================================================================================**
+
 **Learning (Preparing for):**
 
 Ansible,
@@ -42,5 +43,6 @@ k8s
 Terraform 
 
 **===================================================================================**
+
 Wanted to become  
 **Cloud Devops Engineer** 
