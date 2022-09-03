@@ -1,7 +1,7 @@
 # Newbie into this domain
 Basically from the non-IT background.
 
-Learned AWS and a few tools related to DevOps. Currently working in a small startup for the last 2 months.
+Learned AWS and a few tools related to DevOps. Currently working in a new startup for the last 2 months.
 
 Have knowledge of the below areas - AWS, Shell/Bash, Git, GitHub, Jenkins, Ansible, Terraform, Docker, and Kubernetes.
 
