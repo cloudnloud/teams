@@ -33,10 +33,7 @@ installation administration of Bigdata clusters
 i have to work closely with network team db team make sure all the bigdata applications
 are running as expected ensure that cluster is up and running all the time
 
-# vijayabalan review
 
-- RPO - recovery point objective
-- SRE - Service reliability Engineer
 
 troubleshooting the cluster issues
 
@@ -75,3 +72,9 @@ Creating Azure Projects.Boards.Sprints,Epics,Tasks,
 Creating Azure Repositories and integrated ADF with Azure devops
 
 Creating Azure CI-CD Pipelines and Depoly the pipelines
+
+
+# vijayabalan review
+
+- RPO - recovery point objective
+- SRE - Service reliability Engineer
