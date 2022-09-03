@@ -5,4 +5,4 @@ Learned AWS and a few tools related to DevOps. Currently working in a small star
 
 Have knowledge of the below areas - AWS, Shell/Bash, Git, GitHub, Jenkins, Ansible, Terraform, Docker, and Kubernetes.
 
-**My goal is to become a very knowledgeable resource in the Cloud and DevOps domain.
+Target: To become a very knowledgeable resource in the Cloud and DevOps domain.
