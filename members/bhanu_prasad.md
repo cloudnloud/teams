@@ -12,9 +12,9 @@ Then Linux and AWS-Cloud
 - Basic Docker Commands
 - Docker Image
 - Docker Engine and Stroage
-- DOcker Registery
+- Docker Registery
 - Docker Image Security
-- Docker Enginer Networking
+- Docker Engine Networking
 - Disaster Recovery
 - DOcker Swarm Basics
 - Container Orchestration-Docker Swarm & Kubernetes
