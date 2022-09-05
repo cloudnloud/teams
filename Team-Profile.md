@@ -561,11 +561,17 @@ LinkedIn URL - https://www.linkedin.com/in/veera-solaiyappan-a5182418a/
 
 ## Connect with Karthikeyan S
 
+- My location: Coimbatore
+- My skill - Java Developer - veera team
+
 <a href="https://www.linkedin.com/in/herbie36/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
 ## Connect with Deepika Karunakaran
+
+- My location: Coimbatore
+- My skill - Java Developer - veera team
 
 <a href="https://www.linkedin.com/in/deepi19/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
