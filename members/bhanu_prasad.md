@@ -7,7 +7,7 @@ Then Linux and AWS-Cloud
 
 - Target: Terraform,K8,Python and Cloud Security
 
-# DOCKER:
+# DOCKER PLAN:
 - Docker Overview
 - Basic Docker Commands
 - Docker Image
