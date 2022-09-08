@@ -12,7 +12,7 @@ Then Linux and AWS-Cloud
 -  Why Docker and how it is different from virtualization and advantages.
 - Docker Architecture overview and Basic Docker Commands for managing.
 - Docker Container management : creating,listing,mangaging,stopping and starting
-- Docker Iamge management.
+- Docker Image management.
 - DOcker Volume management.
 - Docker Engine Networking 
 - Docker Registery
