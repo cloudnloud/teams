@@ -49,3 +49,6 @@ Bachelor of Engineering
 - 7: Advantages of Proposed architecture
 - 8: Conclusion
 - 9: Q&A
+
+
+- https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices
