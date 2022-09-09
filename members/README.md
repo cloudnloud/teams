@@ -10,7 +10,7 @@
 - **AADITHIYA** - Coimbatore - Completed
 - **Rajiv & Arshiya khannum** - Completed
 - **veera,kanna,karthik,deepika** - Java Developers - completed
-
+- **Bhanu Prasad** - Updated Docker & Kubernetes list - Completed
 
 - **ARUNPRABHU T** - Bangalore - 1 solution is preparing as per discussion
 - **Arunkumar Hari** - USA - storage & AWS - completed 1 st discussion.preparing revised notepad as per disucssion on 03-sep-2022
@@ -18,6 +18,5 @@
 - **Madhusudanarao**- preparing updated notepad
 - **Manohar_Reddy** - going to project all his cloud and devops learnings.what/how/what issues.
 - **Senthil Ram** - Still discussion is pending
-- **Bhanu Prasad** - Updated Docker & Kubernetes list is getting prepared
 - **Kesavarapu Chandrasekhar** - Updated DevSecOps list is getting prepared
 - **Ramesh** - Hyderabad - Storage - Updated list is getting prepared
