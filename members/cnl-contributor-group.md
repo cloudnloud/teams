@@ -67,3 +67,9 @@ Integration Tools	: Mirth Hl7 & FHIR
 DBMS Packages	: MySQL, MS SQL, Redis, Mongo.
 
 - your future dream role - To become tecnicaly sound person to earn big.
+
+# karthikeyan
+
+My Current Skill - Linux
+Future Dream Role - Technical Architech
+
