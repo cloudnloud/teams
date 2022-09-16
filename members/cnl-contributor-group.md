@@ -49,4 +49,21 @@ Current Role: Project manager/Scrum Master
 
 Target Role: C Level Position
 
-# 
+# jeyakumar
+
+Name : Jayakumar S
+Total exp : 13 +
+Current Designation: Technical specialist II. 
+
+First 6.5 into Web development Php wordpress, zoomla. 
+Rest of years in devops on prime. 
+
+- your current skill
+
+DevOps Tools	: SVN, Git, Git lab, Jenkins, MS build, Nant, Ant, Maven, Gradle, ELK , Docker, 	    VMware, Microsoft Hyper-V.
+Programming Language	: Python, Shell JavaScript, 
+Servers	: IIS,Apache Tomcat, Node Server, Nginx.
+Integration Tools	: Mirth Hl7 & FHIR
+DBMS Packages	: MySQL, MS SQL, Redis, Mongo.
+
+- your future dream role - To become tecnicaly sound person to earn big.
