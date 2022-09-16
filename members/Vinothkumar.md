@@ -57,8 +57,9 @@
 # Tasks to do 
 
  ## Normal K8s concepts Blogs
- ## 5 blogs - normal Architecture
-   -  kubernetes normal architecture - Master and worker node
+ ## 5 blogs - normal Architecture 
+   -  kubernetes normal architecture - Master and worker node  [ Use differnet cloud Platform ]
+ ## Production based Architecute [ Use differnet cloud Platform ]
    -  Production considerations for Multi-Master Kubernetes
    -  Highly available Kubernetes cluster -  Keepalived & Haproxy
    -  Highly available Kubernetes Cluster -  external Etcd cluster
