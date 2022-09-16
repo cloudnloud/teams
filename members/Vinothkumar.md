@@ -58,10 +58,10 @@
 
  ## Normal K8s Blogs
 - 5 blogs - normal Architecture
-   --    kubernetes normal architecture - Master and worker node
-   --    Production considerations for Multi-Master Kubernetes
-   --    Highly available Kubernetes cluster -  Keepalived & Haproxy
-   --    Highly available Kubernetes Cluster -  external Etcd cluster
+   -  kubernetes normal architecture - Master and worker node
+   -  Production considerations for Multi-Master Kubernetes
+   -  Highly available Kubernetes cluster -  Keepalived & Haproxy
+   -  Highly available Kubernetes Cluster -  external Etcd cluster
    ### Include AWS, AZure above Architecture conecept
    
 ## then start towards security related
