@@ -33,11 +33,23 @@
 
 # Architecture Review Template - Topics
 - 𝟏: Problem Statement
+       Data  on premise and cloud
 - 2: Business case
+       Cost
+       Management
+       Compliance 
+       Security   
 - 3: Current System architecture
+       Onpremise data archival 
+       Vendor dependency
 - 4: Proposed solution
+       Archival on cloud 
 - 5: In Proposed solution – What are the new Services and Why those Services ? [List each service and what is the purpose ?]
+       API based AMAZON S3
+       Deep glacier for archival data       
 - 6: Proposed Architecture
+       AWS gateway 
+       backup software
 - 7: Advantages of Proposed architecture
 - 8: Conclusion
 - 9: Q&A
