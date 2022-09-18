@@ -41,8 +41,8 @@
                             
                             
                           
-                          
-# **Note:** I am planning to add below more addtional skills to my profile.
+# TODO / Planning in future career:                          
+# **Note1:** I am planning to add below more addtional skills to my profile.
 
       Cloud Computing techs: AWS/AZURE/GCP/PCF/VMWare  + 
       
@@ -51,6 +51,23 @@
       Kubernets+
       
       Docker.
+      
+ # **Note2:**  I would like to be work as Architect position in this field.
+ - Here few things i would like to know.
+ 1. How to become Architect
+ 2. What are the skill sets that I need to learn 
+ 3. What are the challenges will be there.
+ 4. How is the package levels for this level in USA / Europe countries.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+# TODO: Reference From Vijay to build the Plan
+
 
 🎯 Part -1 - Introduction
 
