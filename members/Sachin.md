@@ -7,3 +7,12 @@
 - I am looking for hands on project on cloud and automation and ready to learn DevOps tools like Ansible, Docker, Kubernetes, Jenkins (CI CD)
 - Any suggestions and support to start the learning and Growing Journey is always welcome.
 - I am open to support any one within my limited Knowledge
+
+
+# agreed the learning path
+
+- AWS Cloud
+- Ansible
+- Jenkins - DevOPs - CI/CD
+- Docker
+- Kubernetes
