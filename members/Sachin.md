@@ -1,4 +1,5 @@
-Hi, I am Sachin Manocha, Age 45
+# Hi, I am Sachin Manocha, Age 45
+
 Presently I am Working as a Project Manager Looking after a digitization Project of Madhya Pradesh District Courts.
 Till now Our team has digitized 40 crore pages and uploaded on a centralized repository at MPHC Jabalpur
 My major tasks involve looking after the daily progress of team deployed at 47 locations in MP. I deal directly with Client to gather their requirements related to applications implemented for archival and retrieval of digitized data. Managing the database and resolving day to day issues reported by team as well as client. I am having Knowledge of SQL Server, Queries, VMware, Windows and Linux OS along with knowledge of networking etc.
