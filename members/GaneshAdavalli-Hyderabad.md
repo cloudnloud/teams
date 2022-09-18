@@ -1,4 +1,4 @@
-**Personal Details:**
+# **Personal Details:**
 
 
 **Name**: Ganesh Adavalli (Sr Software Engineer- Java)
@@ -14,7 +14,7 @@
 
 
 
-**Technical Skills:**
+# **Technical Skills:**
 
 **Operating Systems**		      : Windows 7/10, Linux (Ubuntu 16.04 LTS).
 
@@ -42,7 +42,7 @@
                             
                           
                           
-**Note:** I am planning to add below more addtional skills to my profile.
+# **Note:** I am planning to add below more addtional skills to my profile.
 
       Cloud Computing techs: AWS/AZURE/GCP/PCF/VMWare  + 
       
