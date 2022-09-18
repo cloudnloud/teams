@@ -8,7 +8,7 @@ i have started my career as a Associate Software Engineer with Century Link Tech
 
 there are my roles are responsibilities like 
 
-Snowflake
+# Snowflake
 
 Creating Multi-Cluster warehouses depending on Stakeholders requirement.
 Adding Servers /Clusters to warehouses when needed to improve performance
