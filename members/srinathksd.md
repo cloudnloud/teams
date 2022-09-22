@@ -1,14 +1,18 @@
 # All about Data
-## Part - 1 
-> - What is data modeling
-> - What is data briefing
-> - What is batch processing
+## Part - 1 Introduction
+> - Data Engineering
+> - Data Storage
+> - Data modeling
+> - Batch processing
 > - Near real time data processing
-> - What is data streaming
-> - What is data visualization
+> - Monitoring and control - Data storage and data processing
+> - Optimizing the solution
+> - Data Governance
+> - Data visualization
 > - Tools for data processing and visualization
  
-## Part - 2 
+## Part - 2 Deep Dive
+> - Data Storage - Structured Data and Unstrucred Data
 > - Azure Data Factory Fundamentals
 > - What is Integration Runtime and its types
 > - Data Bricks Fundamentals
