@@ -263,6 +263,7 @@
 </a>
   
 - Mail - ptadikonda1991@gmail.com
+- - Mail id - t12.padmi@gmail.com
 - My Location - Hyderabad
 - My Skills - Azure,DevOps,Kubernetes,Docker,Ansible,Linux,Jenkins,DevOps
 - Skills Alocated in CNL - Azure,Azure Kubernetes, DevOps
