@@ -26,7 +26,13 @@
  > - Spark SQL Intoduction
  > - Various Types of Sources
  > - Spark SQL Functions
- 
-> - Data bricks - Deep Dive
-> - Data Streaming using Apache Kafka
-> - Data Streaming using Apache Spark
+
+## Part - 4 Data Load
+> - Initial Load
+> - Incremental/Delta Load
+
+## Part - 5 Banking Data Analysis
+> - Banking Products Analysis
+> - Banking Customers Analysis
+> - While, Grey and Black Listed Area
+> - Visualization of Products, Customers and Areas
