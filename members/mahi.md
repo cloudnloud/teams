@@ -1,36 +1,36 @@
-#**NAME: Mahimairaj M
+# NAME: Mahimairaj M
 
-#Location: Chennai
+# Location: Chennai
 
-#Expirence: 20+ Years
+# Expirence: 20+ Years
 
-#Qualification
-#Bachelor of Commerce & MBA
-**
+# Qualification
+# Bachelor of Commerce & MBA
 
-##Technical skills
-###OS : Linux
+
+## Technical skills
+### OS : Linux
        - Redhat 
        - Rhel Versions Upgrade
        - Pacemaker Cluster
        - DC Migration
        - Vmware
        
-###Cloud : AWS/Azure
+### Cloud : AWS/Azure
       - VMs
       - EC2, S3, EFS, IAM, CloudFront
 
-###Migration : 
+### Migration : 
 	- Migration methodology
 	- DC to DC Migration
 	- DC to Cloud Migration
 	- Migration Tools ( Zerto & Doubletake )
-###Automation
+### Automation
        - Ansible
        - Shell scripting
-###IAC
+### IAC
        - Terraform
-###Certification
+### Certification
        - AWS : Architect Associate
        - RHCE Certified
 ###Future Plan
