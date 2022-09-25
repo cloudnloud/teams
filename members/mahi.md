@@ -15,6 +15,7 @@ OS : Linux
        - Pacemaker Cluster
        - DC Migration
        - Vmware
+       
 Cloud : AWS/Azure
       - VMs
       - EC2, S3, EFS, IAM, CloudFront
@@ -33,9 +34,8 @@ Certification
        - AWS : Architect Associate
        - RHCE Certified
 Future Plan
-	-  Terraform Certification
-	-  Azure-104 Certification
+     -  Terraform Certification
+     -  Azure-104 Certification
      - Kuberneties 
      - Multi Cloud Architecture 
      - Additional automation ( Terraform) 
-
