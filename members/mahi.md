@@ -38,4 +38,5 @@
      -  Azure-104 Certification
      - Kuberneties 
      - Multi Cloud Architecture 
-     - Additional automation ( Terraform) 
+     - Design & Architecture
+     
