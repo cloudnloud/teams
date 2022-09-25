@@ -10,7 +10,7 @@
 
 ## Technical skills
 ### OS : Linux
-       - Redhat 
+       - Redhat/CentOS
        - Rhel Versions Upgrade
        - Pacemaker Cluster
        - DC Migration
