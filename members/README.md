@@ -16,6 +16,7 @@
 - **Chandrasekar** - DevSecOps - finished
 - **Vinothkumar Ganesan**, Bangalore  - Updated list is getting prepared
 - **Bhanupriyanka Gunaparthi** hyderabad - storage
+- **Ganesh (Gani)** - 
 
 
 # pending
