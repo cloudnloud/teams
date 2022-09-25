@@ -17,7 +17,7 @@
 - **Vinothkumar Ganesan**, Bangalore  - Updated list is getting prepared
 
 
-
+# pending
 - **Madhusudanarao**- preparing updated notepad
 - **Manohar_Reddy** - going to project all his cloud and devops learnings.what/how/what issues.
 - **Senthil Ram** - Still discussion is pending
