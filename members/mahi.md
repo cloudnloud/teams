@@ -1,4 +1,4 @@
-NAME: Mahimairaj M
+**NAME: Mahimairaj M
 
 Location: Chennai
 
@@ -6,6 +6,8 @@ Expirence: 20+ Years
 
 Qualification
 Bachelor of Commerce & MBA
+**
+
 Technical skills
 OS : Linux
        - Redhat 
