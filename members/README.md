@@ -15,6 +15,7 @@
 - **Arunkumar Hari** - USA - storage & AWS - completed 1 st discussion.preparing revised notepad as per disucssion on 03-sep-2022
 - **Chandrasekar** - DevSecOps - finished
 - **Vinothkumar Ganesan**, Bangalore  - Updated list is getting prepared
+- **Bhanupriyanka Gunaparthi** hyderabad - storage
 
 
 # pending
