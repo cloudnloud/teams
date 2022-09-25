@@ -33,7 +33,7 @@
 ### Certification
        - AWS : Architect Associate
        - RHCE Certified
-###Future Plan
+### Future Plan
      -  Terraform Certification
      -  Azure-104 Certification
      - Kuberneties 
