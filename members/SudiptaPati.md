@@ -1,7 +1,7 @@
-Personal Details
-	Name :- Sudipta Pati
-	Qualification :- Masters in Computer Application (MCA)
-	Designation :- Technology Analyst
-	Experience : - 7+ Yrs.
-	LinkedIn URL :- www.linkedin.com/in/iamsudipta 
+# Personal Deatils
+**_Name:- Sudipta Pati_** <br>
+**_Qualification:- MCA_** <br>
+**_Designation :- Technology Analyst_** <br>
+**_Experience : - 7+ Yrs._** <br>
+[Link to My Linkdin profile](https://www.linkedin.com/in/iamsudipta/)
 
