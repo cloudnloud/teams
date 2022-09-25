@@ -3,5 +3,5 @@
 **_Qualification:- MCA_** <br>
 **_Designation :- Technology Analyst_** <br>
 **_Experience : - 7+ Yrs._** <br>
-[Link to My Linkdin profile](https://www.linkedin.com/in/iamsudipta/)
+[Link to My Linkedin profile](https://www.linkedin.com/in/iamsudipta/)
 
