@@ -51,5 +51,6 @@
       - AWS gateway 
       - Backup software
 - 7: Advantages of Proposed architecture
+- 7.1 - Non Funtional Requirements
 - 8: Conclusion
 - 9: Q&A
