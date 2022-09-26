@@ -17,6 +17,8 @@ Jenkins (Basic)
 Docker(Basic)
 Git
 Kubernates( architecture,Baisc commands &deployment)
+
+
 Career Plan
 1.Learn well AWS than exposure in Azure also
 2.To learn Devops
