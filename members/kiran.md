@@ -11,4 +11,4 @@
 - Aim to become Technical Lead as discussed briefly with Vijay on 30 sep 22
 - Studying Post grad certificate in CLoud computing from IIT Roorkie through intellipaat
 - Going to join AWS restart program
-Learning Ansible, Docker, Kuberetes
+- Learning Ansible, Docker, Kuberetes
