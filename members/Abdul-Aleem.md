@@ -454,3 +454,21 @@ Query Documents
 **Module 7: Backup support**
 
 Creating Backup for database
+
+**React js & Node js**
+
+**React Native**
+
+
+**My Sql**
+
+
+**adding features using node js and react js**
+
+**Linux good knowledge**
+
+**Kubernetes**
+
+**Docker**
+
+**jenkins**
