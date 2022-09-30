@@ -1,0 +1,14 @@
+- Around 8 Years of experience in IT Field with a bachelor’s degree. Have completed Certification in Microsoft 365. Experience in design, implementation, and configuration of office 365, MS exchange server, window server, active directory, and networking Experienced with office 365 migrations and hybrid solutions. Well versed in configuring, maintaining, and deploying windows server. Skilled at the installation and configuration of hardware and software components of networking environment.
+
+- On-perm Windows active directory
+- On-perm Windows active directory Migration
+- Azure Active directory
+- Azure AD Conect
+- Exchange Online
+- On-prem Exchange Server
+- Data loss preventation
+- Azure Identity Protection
+- Azure AD Privileged Identity Management 
+- Azure Threat Protection
+- RBAC
+- Conditional Access
