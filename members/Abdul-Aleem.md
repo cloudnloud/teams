@@ -31,8 +31,11 @@
 
 - Step 4:
 - Linux good knowledge
-- Kubernetes, Docker
+- Git and Github actions,
 - jenkins
+- Docker, Kubernetes
+- AWS, Azure
+
 - (3 months)
 - blogs on these topics
 
