@@ -1,8 +1,8 @@
-- What is Infrastructure in IT ? Why it is important ?
--  Layers of Infrastructure ?  Traditional vs cloud Infrastructure ?
--  What is storage ? Role of storage in infrastructure ?
--  Components in storage Infrastructure 
--  Types of Storage ? - SAN , NAS and DAS (or Block,File and Object)
+- What is Infrastructure in IT ? Why it is important ? [blog 1] 
+-  Layers of Infrastructure ?  Traditional vs cloud Infrastructure ? [blog 1]
+-  What is storage ? Role of storage in infrastructure ? [blog 1]
+-  Components in storage Infrastructure [blog 2]
+-  Types of Storage ? - SAN , NAS and DAS (or Block,File and Object) [blog 3]
 -  Different vendors/market leaders in storage
 -  Areas of Storage management? Capacity,performance & availability 
 -  Basics of storage - SVM, Aggregates, volumes,LUNs, qtrees etc
