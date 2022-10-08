@@ -29,8 +29,9 @@ Linux basics
 Ansible 
 Azure basics (AZ-900 certification)
 Terraform 
-AWS S3 
-Azure Blob storage
+AWS storage services 
+Azure storage services
 Github
+Docker
 Jenkins
-
+Create CICD pipeline
