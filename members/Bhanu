@@ -1,5 +1,5 @@
  What is Infrastructure in IT ? Why it is important ?
- Componets of Infrastructure ?  Traditional vs cloud Infrastructure ?
+ Layers of Infrastructure ?  Traditional vs cloud Infrastructure ?
  What is storage ? Role of storage in infrastructure ?
  Components in storage Infrastructure 
  Types of Storage ? - SAN , NAS and DAS (or Block,File and Object)
@@ -7,20 +7,27 @@
  Areas of Storage management? Capacity,performance & availability 
  Basics of storage - SVM, Aggregates, volumes,LUNs, qtrees etc
  Provisioning of storage - Block
- Creation of NFS and CIFS share
- Expansion of storage - Netapp,IBM, Unity
+ Creation of NFS share
+ Creation of CIFS share
+ Expansion of storage - in Netapp,IBM,Unity
  Zoning of storage with servers
  capacity planning - Aggregates & volumes utilization
  Migration of volumes with in SVM & out of SVM
  Data protection techniques - snapmirror & snapvault
  snapshot creation and scheduling
  Storage effieciency methods - Deduplication, compression and compaction
- Upgrade of storage devices
+ Upgrade of storage devices - Netapp
+ Upgrade of storage devices - IBM 
  IBM storage - SVC concept
- Complete Removal of IBM SAN storage for a host
+ Removal of IBM SAN storage for a host
   
-Cloud storage:
+Cloud storage / Automation:
  Block, file and object storage
+ AWS Storage services
+ Azure Storage services
+ Create volume (IBM storage) using ansible script
+ Create NFS and CIFS share using ansible script
+ Delete volume using ansible script
  
  
 Learning Approach:
