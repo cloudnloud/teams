@@ -1,22 +1,23 @@
+# current experience
 
 Myself Arun Natarajan from India. Currently working in Dubai. I have 15+ yrs of IT experience.
 
 Have hands on:
 
-Jenkins
-Apache SVN
-Linux server administration
-Shell Scripting - Expert 
-Presentation Skills - Expert
-AWS - VPC, EC2, ECS, RDS, ROUTE53, SNS, Cloudwatch, IAM, S3, Lamda 
-Terraform - Intermediate
-Ansible - Intermediate
-Docker - Intermediate
-Automation - Intermediate 
-Python Scripting - Beginner
-Kubernetes - Beginner
-AI - Beginner
-DevSecOps - Beginner
+- Jenkins
+- Apache SVN
+- Linux server administration
+- Shell Scripting - Expert 
+- Presentation Skills - Expert
+- AWS - VPC, EC2, ECS, RDS, ROUTE53, SNS, Cloudwatch, IAM, S3, Lamda 
+- Terraform - Intermediate
+- Ansible - Intermediate
+- Docker - Intermediate
+- Automation - Intermediate 
+- Python Scripting - Beginner
+- Kubernetes - Beginner
+- AI - Beginner
+- DevSecOps - Beginner
 
 GITHUB ID: https://github.com/arun-natarajan-sudo
 HASHNODE: https://arunnatarajan.hashnode.dev/
