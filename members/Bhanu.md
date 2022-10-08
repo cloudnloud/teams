@@ -22,24 +22,24 @@
 -  Removal of IBM SAN storage for a host
 -  Scalablity storage Basics
   
-Cloud storage / Automation:
- Block, file and object storage
- AWS Storage services
- Azure Storage services
- Create volume (IBM storage) using ansible script
- Create NFS and CIFS share using ansible script
- Delete volume using ansible script
+# Cloud storage / Automation:
+- Block, file and object storage
+-  AWS Storage services
+-  Azure Storage services
+-  Create volume (IBM storage) using ansible script
+-  Create NFS and CIFS share using ansible script
+-  Delete volume using ansible script
  
  
-Learning Approach:
+# Learning Approach:
 
-Linux basics
-Ansible 
-Azure basics (AZ-900 certification)
-Terraform 
-AWS storage services 
-Azure storage services
-Github
-Docker
-Jenkins
-Create CICD pipeline
+- Linux basics
+- Ansible 
+- Azure basics (AZ-900 certification)
+- Terraform 
+- AWS storage services 
+- Azure storage services
+- Github
+- Docker
+- Jenkins
+- Create CICD pipeline
