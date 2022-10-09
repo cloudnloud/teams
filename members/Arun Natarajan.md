@@ -19,7 +19,7 @@ Have hands on:
 - AI - Beginner
 - DevSecOps - Beginner
 
-# Terraform Use cases:
+# Terraform use cases:
 
 1.   Deploy a Web Application with Terraform
 2.   Use Terraform to Create a Kubernetes Deployment
@@ -31,6 +31,8 @@ Have hands on:
 
 1.   Ansible modules using python 
 
+```
 > GitHub   https://github.com/arunix
 > hashnode  https://arunnatarajan.hashnode.dev 
 > LinkedIn https://www.linkedin.com/in/arunix
+```
