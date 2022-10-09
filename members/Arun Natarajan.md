@@ -1,24 +1,43 @@
-# Current experience
 
-Myself Arun Natarajan currently working in Bank domain, Dubai. I have 15+ yrs of IT experience.
+# Name: Arun Natarajan 
 
-Have hands on:
+## Location: Dubai
 
-- Jenkins
-- Apache SVN
-- Linux server administration
-- Shell Scripting - Expert 
-- Presentation Skills - Expert
-- AWS - VPC, EC2, ECS, RDS, ROUTE53, SNS, Cloudwatch, IAM, S3, Lamda 
-- Terraform - Intermediate
-- Ansible - Intermediate
-- Docker - Intermediate
-- Automation - Intermediate 
-- Python Scripting - Beginner
-- Kubernetes - Beginner
-- AI - Beginner
-- DevSecOps - Beginner
+## Expirence: 15+ Years
 
+## Technical skills
+
+#### *PLATFORM* : AWS Cloud Infrastructure
+          - EC2, ECS, EKS 
+          - VPC,  ROUTE53  
+          - S3, EBS, EFS
+          - RDS, MongoDB
+          - SNS, Cloudwatch 
+         
+#### *OS*    :  Linux 
+           - RHEL 7, 8, 9 
+           - Ubuntu 18, 19, 20
+          
+#### *CI/CD* :
+           - Jenkins
+           - Ansible 
+           
+#### *Automation*
+           - Ansible
+           - Shell Scripting
+           - Python Scripting
+           - Terraform
+           
+#### *Certification* 
+           - AWS CSA 
+           - RHEL 5, 7
+           - Oracle DB 11g 
+           - ITIL 
+           
+### _Future Plan_         
+           - Kubernetes 
+           - Multi Cloud Architecture 
+     
 # Terraform use cases:
 
 1.   Deploy a Web Application with Terraform
