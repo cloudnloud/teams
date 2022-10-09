@@ -6,7 +6,7 @@
 
 ## 2. Real world data engineering case studies
 >  a. Requirement - Will define case study, provide scenario-base problem
->  b, Why? This will help us to focus on architecture, design and provide solution
+>  b. Why? This will help us to focus on architecture, design and provide solution
 
 ## 3. Overview of data modeling
 >  a. Design simple data warehouse with dimension and facts
