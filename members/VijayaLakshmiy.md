@@ -25,7 +25,8 @@
 ## Jenkins 
 > Installation
 > 
-> integration of other tools
+> integration of other tools like Github, maven, Jenkins, sonarqube, Nexus, Docker with Jenkins.
+> pipelines - scripted, declarative pielines
 ## SonarQube Plan
 > Installation
 > 
