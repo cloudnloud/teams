@@ -1,6 +1,6 @@
-# current experience
+# Current experience
 
-Myself Arun Natarajan from India. Currently working in Dubai. I have 15+ yrs of IT experience.
+Myself Arun Natarajan currently working in Bank domain, Dubai. I have 15+ yrs of IT experience.
 
 Have hands on:
 
@@ -19,9 +19,18 @@ Have hands on:
 - AI - Beginner
 - DevSecOps - Beginner
 
-GITHUB ID: https://github.com/arun-natarajan-sudo
-HASHNODE: https://arunnatarajan.hashnode.dev/
-LINKEDIN: https://www.linkedin.com/in/arun-natarajan-linux/
+# Terraform Use cases:
 
+  Deploy a Web Application with Terraform
+  Use Terraform to Create a Kubernetes Deployment
+  Use Terraform to Create an EKS Deployment
+  Deploy helm charts using Terrafrom module 
+  Troubleshooting a Terraform Deployment
 
-I want to advance from basic domains to expert status.
+# Python use cases:
+
+   Ansible modules using python 
+
+GitHub   https://github.com/arunix
+hasnode  https://arunnatarajan.hashnode.dev 
+LinkedIn https://www.linkedin.com/in/arunix
