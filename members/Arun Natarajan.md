@@ -21,16 +21,16 @@ Have hands on:
 
 # Terraform Use cases:
 
-  Deploy a Web Application with Terraform
-  Use Terraform to Create a Kubernetes Deployment
-  Use Terraform to Create an EKS Deployment
-  Deploy helm charts using Terrafrom module 
-  Troubleshooting a Terraform Deployment
+1.   Deploy a Web Application with Terraform
+2.   Use Terraform to Create a Kubernetes Deployment
+3.   Use Terraform to Create an EKS Deployment
+4.   Deploy helm charts using Terrafrom module 
+5.   Troubleshooting a Terraform Deployment
 
 # Python use cases:
 
-   Ansible modules using python 
+1.   Ansible modules using python 
 
-GitHub   https://github.com/arunix
-hasnode  https://arunnatarajan.hashnode.dev 
-LinkedIn https://www.linkedin.com/in/arunix
+> GitHub   https://github.com/arunix
+> hashnode  https://arunnatarajan.hashnode.dev 
+> LinkedIn https://www.linkedin.com/in/arunix
