@@ -1,8 +1,8 @@
 # Guide to Data Engineering with real-time use case on Retail Banking
 
 ## 1. Understanding Source System
->  a. Have taken Retail Banking as case study and made it easy to understand for beginners and intermediate level
->  b. Why? This will in-turn ensure, have good clarity while providing solution and designing
+> a. Have taken Retail Banking as case study and made it easy to understand for beginners and intermediate level
+> b. Why? This will in-turn ensure, have good clarity while providing solution and designing
 
 ## 2. Real world data engineering case studies
 >  a. Requirement - Will define case study, provide scenario-base problem
