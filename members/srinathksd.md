@@ -1,28 +1,30 @@
-1. Understanding Source System
-  a. Have taken Retail Banking as case study and made it easy to understand for beginners and intermediate level
-  b. Why? This will in-turn ensure, have good clarity while providing solution and designing
+#Guide to Data Engineering with real-time use case on Retail Banking
 
-2. Real world data engineering case studies
-  a. Requirement - Will define case study, provide scenario-base problem
-  b, Why? This will help us to focus on architecture, design and provide solution
+##1. Understanding Source System
+>  a. Have taken Retail Banking as case study and made it easy to understand for beginners and intermediate level
+>  b. Why? This will in-turn ensure, have good clarity while providing solution and designing
 
-3. Overview of data modeling
-  a. Design simple data warehouse with dimension and facts
-  b. Design Data Lake
-  c. Azure SQL and SQL Server
+##2. Real world data engineering case studies
+>  a. Requirement - Will define case study, provide scenario-base problem
+>  b, Why? This will help us to focus on architecture, design and provide solution
 
-4. Data Integration
-  a. Batch and Real time streaming - ingestion, transformation, delivery and movement of data
-  b. Batch includes Azure Data Factory
-  c. Real Time streaming includes - Azure streaming 
-  d. Data Lake ingestion includes - Data Bricks
-  e. Walk though on Kafka
+##3. Overview of data modeling
+>  a. Design simple data warehouse with dimension and facts
+>  b. Design Data Lake
+>  c. Azure SQL and SQL Server
 
-5. Monitoring control and Data governance
-  a. Error handling
-  b. Monitoring and control
-  c. Testing
-  d. Data Quality and Data Governance  - Tools in market
+##4. Data Integration
+>  a. Batch and Real time streaming - ingestion, transformation, delivery and movement of data
+>  b. Batch includes Azure Data Factory
+>  c. Real Time streaming includes - Azure streaming 
+>  d. Data Lake ingestion includes - Data Bricks
+>  e. Walk though on Kafka
+
+##5. Monitoring control and Data governance
+>  a. Error handling
+>  b. Monitoring and control
+>  c. Testing
+>  d. Data Quality and Data Governance  - Tools in market
 
 6. Visualization
   a. Do we have all the data? in desired quality?
@@ -32,7 +34,7 @@
   ========================================================================================================
 
 
-
+#Intially below topics planned
 # Data Workshop
 ## Part - 1 Introduction
 > - Data Engineering
