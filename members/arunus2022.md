@@ -1,6 +1,6 @@
 # Cloud dataprotection and storage 
 
-## Storage 
+## Storage - 1
 - AWS/Azure/GCP/On-premise storage
 - Iternity storage
 - AWS FSx file system
@@ -12,7 +12,16 @@
 - AWS EBS
 - AWS gateway
 
-## Data protection
+## Data migration - 2
+- Double take migration 
+- Storage X file migration
+- Komprise file migration
+- AWS snowball
+- AWS Snowmobile
+- AWS Kinesis Firehose
+- AWS Migration Hub
+
+## Data protection - 3
 - AWS/Azure/GCP/Data protection 
 - AWS backup
   - Cloud native backup 
@@ -21,14 +30,10 @@
   - Commvault
   - Netbackup
   
-## Data migration 
-- Double take migration 
-- Storage X file migration
-- Komprise file migration
-- AWS snowball
-- AWS Snowmobile
-- AWS Kinesis Firehose
-- AWS Migration Hub
+## Data Security - 4
+## Data Governance - 5 
+
+RFP
 
 
 # Architecture Review Template - Topics
