@@ -34,3 +34,4 @@
 - Creating reports about the usage of Office 365 and identifying potential areas for improvement based on the data collected
 - Providing support for mobile devices that use Office 365, including Android phones and iPhones
 - Troubleshooting problems with hardware or software that is used in conjunction with Office 365, such as printers or mobile phones that use Exchange ActiveSync
+- # Started working to get details of o365
