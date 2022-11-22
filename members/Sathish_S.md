@@ -34,4 +34,20 @@
 - Creating reports about the usage of Office 365 and identifying potential areas for improvement based on the data collected
 - Providing support for mobile devices that use Office 365, including Android phones and iPhones
 - Troubleshooting problems with hardware or software that is used in conjunction with Office 365, such as printers or mobile phones that use Exchange ActiveSync
-- # Started working to get details of o365
+- # Azure O365 Administering & Congfiguring
+- - Administering, configuring, troubleshooting, and operating Office 365 services
+- Explain Microsoft 365 and Office 365 licensing options.
+- Managing Office 365 with Windows PowerShell
+- AD CONNECT
+- Administering client access policies in Exchange Online
+- Administering SharePoint Online site collections
+- Overview of Microsoft 365 Apps for enterprise
+- Administering information protection in Office 365
+- Setting up a Microsoft 365 lab environment
+- Managing Office 365 with the administrative portals
+- Overview of directory synchronization and federation
+- Overview of Exchange Online managemen
+- Administering and managing Teams
+- Configuring OneDrive for Business
+- Overview of compliance features in Office 365
+- Administering compliance features in Office 365
