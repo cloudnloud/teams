@@ -143,6 +143,8 @@
 
 ## INDIA
 - https://www.linkedin.com/in/srishti-verma-89a6a2179/
+- https://www.linkedin.com/in/sanchitdilipjain/
+- https://www.linkedin.com/in/bhuvanas/
 
 ## UK
 - https://www.linkedin.com/in/gerrardcowburn/
