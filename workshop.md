@@ -1,8 +1,8 @@
-𝐒𝐰𝐞𝐭𝐡𝐚 
-𝐕𝐢𝐣𝐢 - 𝐂𝐡𝐞𝐧𝐧𝐚𝐢 
-𝐒𝐚𝐧𝐣𝐚𝐲 
-𝐕𝐞𝐞𝐫𝐚 
-𝐀𝐚𝐝𝐡𝐢𝐭𝐡𝐲𝐚
+- 𝐒𝐰𝐞𝐭𝐡𝐚 
+- 𝐕𝐢𝐣𝐢 - 𝐂𝐡𝐞𝐧𝐧𝐚𝐢 
+- 𝐒𝐚𝐧𝐣𝐚𝐲 
+- 𝐕𝐞𝐞𝐫𝐚 
+- 𝐀𝐚𝐝𝐡𝐢𝐭𝐡𝐲𝐚
 
 please prepare what are all u experienced via small ppt..mention what is the gaps u felt ?
 
@@ -34,3 +34,9 @@ github ?
 13. what is stopping you to speak even in internal whatsapp group ?
 
 14. what is stopping you to create your life career journey with your own self face picture ?
+
+plus whatever you observed and learned process ?
+
+----------
+
+
