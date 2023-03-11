@@ -40,3 +40,27 @@ plus whatever you observed and learned process ?
 ----------
 
 
+sample 1 - https://www.linkedin.com/feed/update/urn:li:activity:7038680505944313856/
+
+
+
+Sample 2 - https://www.linkedin.com/feed/update/urn:li:activity:7038859636099190784/?
+
+
+
+sample 3 - https://www.linkedin.com/feed/update/urn:li:activity:7039188568157655040/
+
+
+
+sample 4 - https://www.linkedin.com/posts/bhuvanas_career-talks-womens-day-special-build-activity-7038873609053904897-2Hfe
+
+
+
+sample 5 - https://www.linkedin.com/posts/bhuvanas_talent-team-funtimes-activity-7038693147832451072-Md2J?utm_source=share
+
+
+
+
+
+Sample 6 - https://www.linkedin.com/posts/sabiha-ashik_27th-awsusergroups-dubai-activity-7034473071147163648-lRnn?utm_source=share
+
