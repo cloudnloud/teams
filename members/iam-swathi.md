@@ -2,7 +2,7 @@
 
 ## Location: Bengaluru
 
-## Expirence: career beginner
+## Expirence: Career Beginner
 
 ## Technical skills: Have conceptual knowledge on devops and AWS cloud
 
@@ -12,25 +12,25 @@
            - Ansible
            - Terraform
            - Jenkins
-           -Git, GitHub
+           - Git, GitHub
 
 
- #####  familiar with OS:
-           - linux and windows
+ #####  Familiar with OS:
+           - Linux and Windows
 
 
-#### *cloud technologies:
+#### *Cloud Technologies:
 
->  - have a basic knowledge in AWS cloud computing
+>  - Have a basic knowledge in AWS cloud computing
 
->  - have conceptul knowledge on aws services like Ec2,ELB,EKS,Autoscaling,s3,IAM,
+>  - Have conceptul knowledge on aws services like Ec2,ELB,EKS,Autoscaling,s3,IAM,
 
  ##Goals:
  
->  - want to be expertise by learning hands-on
->  - need to do certifications in respective technologies
->  - need to get a entry-level job and to be devops Architect
->  - should be updated with tools in devops
+>  - Want to be expertise by learning hands-on
+>  - Need to do certifications in respective technologies
+>  - Need to get a entry-level job and to be devops Architect
+>  - Should be updated with tools in devops
 
  
 > ------->  github id :;    https://github.com/iam-swathi
