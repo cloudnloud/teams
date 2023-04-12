@@ -2,7 +2,7 @@
 
 ## Location: Bengaluru
 
-## Expirence: Career Beginner
+## Experiance: Career Beginner
 
 ## Technical skills: Have conceptual knowledge on devops and AWS cloud
 
